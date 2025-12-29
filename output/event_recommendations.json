@@ -1,0 +1,3502 @@
+[
+  {
+    "user_id": "u_01",
+    "asset_id": "e_01",
+    "asset_type": "event",
+    "score": 0.2692331223420825,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_01",
+    "asset_id": "e_22",
+    "asset_type": "event",
+    "score": 0.25440644599427165,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_01",
+    "asset_id": "e_37",
+    "asset_type": "event",
+    "score": 0.22543683147343246,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_01",
+    "asset_id": "e_38",
+    "asset_type": "event",
+    "score": 0.16306369598218357,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_01",
+    "asset_id": "e_17",
+    "asset_type": "event",
+    "score": 0.14401310890812558,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_01",
+    "asset_id": "e_06",
+    "asset_type": "event",
+    "score": 0.13792806793821827,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_01",
+    "asset_id": "e_07",
+    "asset_type": "event",
+    "score": 0.11419721135978675,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_01",
+    "asset_id": "e_05",
+    "asset_type": "event",
+    "score": 0.10339142599570825,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_01",
+    "asset_id": "e_18",
+    "asset_type": "event",
+    "score": 0.08252685092296369,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_01",
+    "asset_id": "e_08",
+    "asset_type": "event",
+    "score": 0.06655503118023817,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_02",
+    "asset_id": "e_02",
+    "asset_type": "event",
+    "score": 0.21222790240046147,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_02",
+    "asset_id": "e_19",
+    "asset_type": "event",
+    "score": 0.18610831904810882,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_02",
+    "asset_id": "e_42",
+    "asset_type": "event",
+    "score": 0.16670938495552357,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_02",
+    "asset_id": "e_05",
+    "asset_type": "event",
+    "score": 0.11291374001916069,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_02",
+    "asset_id": "e_30",
+    "asset_type": "event",
+    "score": 0.09518747774253197,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_02",
+    "asset_id": "e_13",
+    "asset_type": "event",
+    "score": 0.09222211161285554,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_02",
+    "asset_id": "e_18",
+    "asset_type": "event",
+    "score": 0.0893420498697832,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_02",
+    "asset_id": "e_47",
+    "asset_type": "event",
+    "score": 0.0687787727568055,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_02",
+    "asset_id": "e_27",
+    "asset_type": "event",
+    "score": 0.06832711041949727,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_02",
+    "asset_id": "e_40",
+    "asset_type": "event",
+    "score": 0.06740735244375787,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_03",
+    "asset_id": "e_26",
+    "asset_type": "event",
+    "score": 0.1975698929642687,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_03",
+    "asset_id": "e_38",
+    "asset_type": "event",
+    "score": 0.18798834124895208,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_03",
+    "asset_id": "e_03",
+    "asset_type": "event",
+    "score": 0.18194980089792578,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_03",
+    "asset_id": "e_30",
+    "asset_type": "event",
+    "score": 0.12486358162861626,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_03",
+    "asset_id": "e_02",
+    "asset_type": "event",
+    "score": 0.12098139192607651,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_03",
+    "asset_id": "e_13",
+    "asset_type": "event",
+    "score": 0.08950699879597929,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_03",
+    "asset_id": "e_18",
+    "asset_type": "event",
+    "score": 0.08117726142834639,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_03",
+    "asset_id": "e_20",
+    "asset_type": "event",
+    "score": 0.05980021479961761,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_03",
+    "asset_id": "e_08",
+    "asset_type": "event",
+    "score": 0.04332340084693052,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_03",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.04299604244172539,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_04",
+    "asset_id": "e_04",
+    "asset_type": "event",
+    "score": 0.22141301029450855,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_04",
+    "asset_id": "e_44",
+    "asset_type": "event",
+    "score": 0.18836297703077595,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_04",
+    "asset_id": "e_25",
+    "asset_type": "event",
+    "score": 0.16154623451364536,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_04",
+    "asset_id": "e_48",
+    "asset_type": "event",
+    "score": 0.15799234296498849,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_04",
+    "asset_id": "e_18",
+    "asset_type": "event",
+    "score": 0.07909427133500713,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_04",
+    "asset_id": "e_36",
+    "asset_type": "event",
+    "score": 0.06904571270259531,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_04",
+    "asset_id": "e_30",
+    "asset_type": "event",
+    "score": 0.06119697592878762,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_04",
+    "asset_id": "e_20",
+    "asset_type": "event",
+    "score": 0.05858730206309115,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_04",
+    "asset_id": "e_08",
+    "asset_type": "event",
+    "score": 0.04278111876306793,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_04",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.04246708432823523,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_05",
+    "asset_id": "e_05",
+    "asset_type": "event",
+    "score": 0.5092149522843338,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_05",
+    "asset_id": "e_23",
+    "asset_type": "event",
+    "score": 0.32050079824475053,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_05",
+    "asset_id": "e_37",
+    "asset_type": "event",
+    "score": 0.08368738040289664,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_05",
+    "asset_id": "e_14",
+    "asset_type": "event",
+    "score": 0.0756933227141975,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_05",
+    "asset_id": "e_40",
+    "asset_type": "event",
+    "score": 0.06954103576964396,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_05",
+    "asset_id": "e_12",
+    "asset_type": "event",
+    "score": 0.06610313837990656,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_05",
+    "asset_id": "e_28",
+    "asset_type": "event",
+    "score": 0.06459306258143813,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_05",
+    "asset_id": "e_15",
+    "asset_type": "event",
+    "score": 0.06431740687371534,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_05",
+    "asset_id": "e_27",
+    "asset_type": "event",
+    "score": 0.06322676936903393,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_05",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.0582676048060677,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_06",
+    "asset_id": "e_06",
+    "asset_type": "event",
+    "score": 0.28313351898015865,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_06",
+    "asset_id": "e_16",
+    "asset_type": "event",
+    "score": 0.36582308843217703,
+    "reason": "text-based similarity; feedback adjusted (positive)"
+  },
+  {
+    "user_id": "u_06",
+    "asset_id": "e_18",
+    "asset_type": "event",
+    "score": 0.16353140168357788,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_06",
+    "asset_id": "e_14",
+    "asset_type": "event",
+    "score": 0.16139184716486107,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_06",
+    "asset_id": "e_21",
+    "asset_type": "event",
+    "score": 0.14934466724043616,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_06",
+    "asset_id": "e_30",
+    "asset_type": "event",
+    "score": 0.14834490693489785,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_06",
+    "asset_id": "e_32",
+    "asset_type": "event",
+    "score": 0.14798053811799272,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_06",
+    "asset_id": "e_36",
+    "asset_type": "event",
+    "score": 0.14644705498757965,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_06",
+    "asset_id": "e_17",
+    "asset_type": "event",
+    "score": 0.1364949289560834,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_06",
+    "asset_id": "e_07",
+    "asset_type": "event",
+    "score": 0.10864513237057946,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_07",
+    "asset_id": "e_07",
+    "asset_type": "event",
+    "score": 0.384306014116597,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_07",
+    "asset_id": "e_27",
+    "asset_type": "event",
+    "score": 0.22806910355578497,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_07",
+    "asset_id": "e_13",
+    "asset_type": "event",
+    "score": 0.22603610817344605,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_07",
+    "asset_id": "e_06",
+    "asset_type": "event",
+    "score": 0.13954664052471077,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_07",
+    "asset_id": "e_17",
+    "asset_type": "event",
+    "score": 0.12539549570576405,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_07",
+    "asset_id": "e_38",
+    "asset_type": "event",
+    "score": 0.07657619819738336,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_07",
+    "asset_id": "e_29",
+    "asset_type": "event",
+    "score": 0.06337372637062982,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_07",
+    "asset_id": "e_01",
+    "asset_type": "event",
+    "score": 0.049950887321597824,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_07",
+    "asset_id": "e_08",
+    "asset_type": "event",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_07",
+    "asset_id": "e_09",
+    "asset_type": "event",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_08",
+    "asset_id": "e_05",
+    "asset_type": "event",
+    "score": 0.20905982000909348,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_08",
+    "asset_id": "e_08",
+    "asset_type": "event",
+    "score": 0.1876100168530285,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_08",
+    "asset_id": "e_17",
+    "asset_type": "event",
+    "score": 0.1743395505752332,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_08",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.16291675255577334,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_08",
+    "asset_id": "e_41",
+    "asset_type": "event",
+    "score": 0.1545607510542658,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_08",
+    "asset_id": "e_50",
+    "asset_type": "event",
+    "score": 0.15306126065705677,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_08",
+    "asset_id": "e_29",
+    "asset_type": "event",
+    "score": 0.1516758330723714,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_08",
+    "asset_id": "e_37",
+    "asset_type": "event",
+    "score": 0.25857255923317307,
+    "reason": "text-based similarity; feedback adjusted (positive)"
+  },
+  {
+    "user_id": "u_08",
+    "asset_id": "e_25",
+    "asset_type": "event",
+    "score": 0.05783880385425695,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_08",
+    "asset_id": "e_46",
+    "asset_type": "event",
+    "score": 0.056974075851740226,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_09",
+    "asset_id": "e_09",
+    "asset_type": "event",
+    "score": 0.3092781276275698,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_09",
+    "asset_id": "e_46",
+    "asset_type": "event",
+    "score": 0.16225743788235825,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_09",
+    "asset_id": "e_11",
+    "asset_type": "event",
+    "score": 0.16010555337929475,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_09",
+    "asset_id": "e_20",
+    "asset_type": "event",
+    "score": 0.1577822031000493,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_09",
+    "asset_id": "e_28",
+    "asset_type": "event",
+    "score": 0.14857737034909843,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_09",
+    "asset_id": "e_23",
+    "asset_type": "event",
+    "score": 0.14386016081997194,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_09",
+    "asset_id": "e_49",
+    "asset_type": "event",
+    "score": 0.12005572390329826,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_09",
+    "asset_id": "e_48",
+    "asset_type": "event",
+    "score": 0.07489573846643513,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_09",
+    "asset_id": "e_31",
+    "asset_type": "event",
+    "score": 0.07462292793858352,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_09",
+    "asset_id": "e_40",
+    "asset_type": "event",
+    "score": 0.06479595806617365,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_10",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.07714148621296191,
+    "reason": "text-based similarity; feedback adjusted (negative)"
+  },
+  {
+    "user_id": "u_10",
+    "asset_id": "e_50",
+    "asset_type": "event",
+    "score": 0.2392488508461551,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_10",
+    "asset_id": "e_33",
+    "asset_type": "event",
+    "score": 0.19298282518469692,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_10",
+    "asset_id": "e_15",
+    "asset_type": "event",
+    "score": 0.17710245189211216,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_10",
+    "asset_id": "e_17",
+    "asset_type": "event",
+    "score": 0.17263819181640871,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_10",
+    "asset_id": "e_08",
+    "asset_type": "event",
+    "score": 0.1624510271868917,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_10",
+    "asset_id": "e_41",
+    "asset_type": "event",
+    "score": 0.1536183272275159,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_10",
+    "asset_id": "e_29",
+    "asset_type": "event",
+    "score": 0.15084410681502192,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_10",
+    "asset_id": "e_45",
+    "asset_type": "event",
+    "score": 0.14605285858145833,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_10",
+    "asset_id": "e_25",
+    "asset_type": "event",
+    "score": 0.11641589359962455,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_11",
+    "asset_id": "e_11",
+    "asset_type": "event",
+    "score": 0.5814686173639276,
+    "reason": "text-based similarity; feedback adjusted (positive)"
+  },
+  {
+    "user_id": "u_11",
+    "asset_id": "e_50",
+    "asset_type": "event",
+    "score": 0.3123033060333029,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_11",
+    "asset_id": "e_46",
+    "asset_type": "event",
+    "score": 0.2393734285954785,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_11",
+    "asset_id": "e_20",
+    "asset_type": "event",
+    "score": 0.189240786015156,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_11",
+    "asset_id": "e_09",
+    "asset_type": "event",
+    "score": 0.1567682885036382,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_11",
+    "asset_id": "e_45",
+    "asset_type": "event",
+    "score": 0.1425161739553088,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_11",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.13508359065437126,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_11",
+    "asset_id": "e_25",
+    "asset_type": "event",
+    "score": 0.11378238878048867,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_11",
+    "asset_id": "e_26",
+    "asset_type": "event",
+    "score": 0.10926644756036674,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_11",
+    "asset_id": "e_33",
+    "asset_type": "event",
+    "score": 0.10695584044101893,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_12",
+    "asset_id": "e_12",
+    "asset_type": "event",
+    "score": 0.24581201803264394,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_12",
+    "asset_id": "e_28",
+    "asset_type": "event",
+    "score": 0.1692580901872419,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_12",
+    "asset_id": "e_15",
+    "asset_type": "event",
+    "score": 0.16894526108721836,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_12",
+    "asset_id": "e_39",
+    "asset_type": "event",
+    "score": 0.16004544774396692,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_12",
+    "asset_id": "e_40",
+    "asset_type": "event",
+    "score": 0.1532981645327371,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_12",
+    "asset_id": "e_21",
+    "asset_type": "event",
+    "score": 0.07079395402548772,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_12",
+    "asset_id": "e_50",
+    "asset_type": "event",
+    "score": 0.05926176765886535,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_12",
+    "asset_id": "e_11",
+    "asset_type": "event",
+    "score": 0.05890949820623052,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_12",
+    "asset_id": "e_13",
+    "asset_type": "event",
+    "score": 0.05778948613491529,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_12",
+    "asset_id": "e_22",
+    "asset_type": "event",
+    "score": 0.057686408391914565,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_13",
+    "asset_id": "e_13",
+    "asset_type": "event",
+    "score": 0.5775092684293104,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_13",
+    "asset_id": "e_27",
+    "asset_type": "event",
+    "score": 0.22105076419402991,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_13",
+    "asset_id": "e_02",
+    "asset_type": "event",
+    "score": 0.2210204284943513,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_13",
+    "asset_id": "e_07",
+    "asset_type": "event",
+    "score": 0.21975612642789397,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_13",
+    "asset_id": "e_30",
+    "asset_type": "event",
+    "score": 0.13874994461913095,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_13",
+    "asset_id": "e_50",
+    "asset_type": "event",
+    "score": 0.056252947690542995,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_13",
+    "asset_id": "e_11",
+    "asset_type": "event",
+    "score": 0.05593690008806002,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_13",
+    "asset_id": "e_22",
+    "asset_type": "event",
+    "score": 0.05483957359396681,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_13",
+    "asset_id": "e_08",
+    "asset_type": "event",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_13",
+    "asset_id": "e_06",
+    "asset_type": "event",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_14",
+    "asset_id": "e_05",
+    "asset_type": "event",
+    "score": 0.2500700937181688,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_14",
+    "asset_id": "e_14",
+    "asset_type": "event",
+    "score": 0.21020624847379618,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_14",
+    "asset_id": "e_16",
+    "asset_type": "event",
+    "score": 0.16707142803754876,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_14",
+    "asset_id": "e_18",
+    "asset_type": "event",
+    "score": 0.15081536970026105,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_14",
+    "asset_id": "e_21",
+    "asset_type": "event",
+    "score": 0.15001877757893178,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_14",
+    "asset_id": "e_30",
+    "asset_type": "event",
+    "score": 0.14898417827877006,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_14",
+    "asset_id": "e_32",
+    "asset_type": "event",
+    "score": 0.14860711217514255,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_14",
+    "asset_id": "e_06",
+    "asset_type": "event",
+    "score": 0.1480742148587743,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_14",
+    "asset_id": "e_36",
+    "asset_type": "event",
+    "score": 0.14702019122544463,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_14",
+    "asset_id": "e_37",
+    "asset_type": "event",
+    "score": 0.08606918781949509,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_15",
+    "asset_id": "e_15",
+    "asset_type": "event",
+    "score": 0.21422263520542184,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_15",
+    "asset_id": "e_12",
+    "asset_type": "event",
+    "score": 0.16733395265389417,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_15",
+    "asset_id": "e_28",
+    "asset_type": "event",
+    "score": 0.16577239593351806,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_15",
+    "asset_id": "e_40",
+    "asset_type": "event",
+    "score": 0.15122953924182914,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_15",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.12071999598120182,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_15",
+    "asset_id": "e_45",
+    "asset_type": "event",
+    "score": 0.10816443334599118,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_15",
+    "asset_id": "e_25",
+    "asset_type": "event",
+    "score": 0.08820321393083982,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_15",
+    "asset_id": "e_46",
+    "asset_type": "event",
+    "score": 0.0863953076290476,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_15",
+    "asset_id": "e_26",
+    "asset_type": "event",
+    "score": 0.08506601174837991,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_15",
+    "asset_id": "e_33",
+    "asset_type": "event",
+    "score": 0.08346084433270887,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_16",
+    "asset_id": "e_16",
+    "asset_type": "event",
+    "score": 0.5921297259928945,
+    "reason": "text-based similarity; feedback adjusted (positive)"
+  },
+  {
+    "user_id": "u_16",
+    "asset_id": "e_41",
+    "asset_type": "event",
+    "score": 0.18606543320002397,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_16",
+    "asset_id": "e_14",
+    "asset_type": "event",
+    "score": 0.16325973140379796,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_16",
+    "asset_id": "e_18",
+    "asset_type": "event",
+    "score": 0.151311288304834,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_16",
+    "asset_id": "e_21",
+    "asset_type": "event",
+    "score": 0.1504957176662402,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_16",
+    "asset_id": "e_30",
+    "asset_type": "event",
+    "score": 0.14943646941443284,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_16",
+    "asset_id": "e_32",
+    "asset_type": "event",
+    "score": 0.14905041984817002,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_16",
+    "asset_id": "e_06",
+    "asset_type": "event",
+    "score": 0.14850482644725851,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_16",
+    "asset_id": "e_36",
+    "asset_type": "event",
+    "score": 0.1474256910846175,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_16",
+    "asset_id": "e_39",
+    "asset_type": "event",
+    "score": 0.10772965046296441,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_17",
+    "asset_id": "e_17",
+    "asset_type": "event",
+    "score": 0.3180572357097021,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_17",
+    "asset_id": "e_08",
+    "asset_type": "event",
+    "score": 0.1633269118203243,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_17",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.1625080634775285,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_17",
+    "asset_id": "e_41",
+    "asset_type": "event",
+    "score": 0.1542558087397905,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_17",
+    "asset_id": "e_50",
+    "asset_type": "event",
+    "score": 0.15277493577293805,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_17",
+    "asset_id": "e_29",
+    "asset_type": "event",
+    "score": 0.15140670943316895,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_17",
+    "asset_id": "e_06",
+    "asset_type": "event",
+    "score": 0.13500592908244824,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_17",
+    "asset_id": "e_07",
+    "asset_type": "event",
+    "score": 0.1119175824591494,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_17",
+    "asset_id": "e_01",
+    "asset_type": "event",
+    "score": 0.0782515538903915,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_17",
+    "asset_id": "e_38",
+    "asset_type": "event",
+    "score": 0.07464561342473358,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_18",
+    "asset_id": "e_18",
+    "asset_type": "event",
+    "score": 0.23470054871395868,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_18",
+    "asset_id": "e_30",
+    "asset_type": "event",
+    "score": 0.18110435482413506,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_18",
+    "asset_id": "e_16",
+    "asset_type": "event",
+    "score": 0.16940474068057704,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_18",
+    "asset_id": "e_14",
+    "asset_type": "event",
+    "score": 0.16453045650593795,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_18",
+    "asset_id": "e_21",
+    "asset_type": "event",
+    "score": 0.15127877939962184,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_18",
+    "asset_id": "e_32",
+    "asset_type": "event",
+    "score": 0.14977826236780656,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_18",
+    "asset_id": "e_06",
+    "asset_type": "event",
+    "score": 0.14921182396301685,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_18",
+    "asset_id": "e_36",
+    "asset_type": "event",
+    "score": 0.14809145903128323,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_18",
+    "asset_id": "e_42",
+    "asset_type": "event",
+    "score": 0.06191425988123242,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_18",
+    "asset_id": "e_47",
+    "asset_type": "event",
+    "score": 0.06049860907952501,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_19",
+    "asset_id": "e_41",
+    "asset_type": "event",
+    "score": 0.23742236371996536,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_19",
+    "asset_id": "e_16",
+    "asset_type": "event",
+    "score": 0.21919684393736702,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_19",
+    "asset_id": "e_19",
+    "asset_type": "event",
+    "score": 0.17354914998666915,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_19",
+    "asset_id": "e_42",
+    "asset_type": "event",
+    "score": 0.158492432824012,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_19",
+    "asset_id": "e_02",
+    "asset_type": "event",
+    "score": 0.15253163143410717,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_19",
+    "asset_id": "e_40",
+    "asset_type": "event",
+    "score": 0.059034168726042335,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_19",
+    "asset_id": "e_17",
+    "asset_type": "event",
+    "score": 0.05830818811240569,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_19",
+    "asset_id": "e_09",
+    "asset_type": "event",
+    "score": 0.056661436056790526,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_19",
+    "asset_id": "e_18",
+    "asset_type": "event",
+    "score": 0.04259545340376438,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_19",
+    "asset_id": "e_08",
+    "asset_type": "event",
+    "score": 0.04081295055795816,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_20",
+    "asset_id": "e_46",
+    "asset_type": "event",
+    "score": 0.23989367677375983,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_20",
+    "asset_id": "e_20",
+    "asset_type": "event",
+    "score": 0.21497608328827278,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_20",
+    "asset_id": "e_11",
+    "asset_type": "event",
+    "score": 0.19450028334288086,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_20",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.18897462706744617,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_20",
+    "asset_id": "e_09",
+    "asset_type": "event",
+    "score": 0.1568956151633997,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_20",
+    "asset_id": "e_45",
+    "asset_type": "event",
+    "score": 0.14305137098880344,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_20",
+    "asset_id": "e_25",
+    "asset_type": "event",
+    "score": 0.11418091002732934,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_20",
+    "asset_id": "e_26",
+    "asset_type": "event",
+    "score": 0.10964348817682795,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_20",
+    "asset_id": "e_33",
+    "asset_type": "event",
+    "score": 0.1073218903702538,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_20",
+    "asset_id": "e_32",
+    "asset_type": "event",
+    "score": 0.10514030115221608,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_21",
+    "asset_id": "e_21",
+    "asset_type": "event",
+    "score": 0.2957192039923377,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_21",
+    "asset_id": "e_32",
+    "asset_type": "event",
+    "score": 0.16994779451924735,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_21",
+    "asset_id": "e_16",
+    "asset_type": "event",
+    "score": 0.3644494081494708,
+    "reason": "text-based similarity; feedback adjusted (positive)"
+  },
+  {
+    "user_id": "u_21",
+    "asset_id": "e_39",
+    "asset_type": "event",
+    "score": 0.16258655695063487,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_21",
+    "asset_id": "e_18",
+    "asset_type": "event",
+    "score": 0.1622455989412644,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_21",
+    "asset_id": "e_14",
+    "asset_type": "event",
+    "score": 0.16018808826591133,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_21",
+    "asset_id": "e_12",
+    "asset_type": "event",
+    "score": 0.15800276394515164,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_21",
+    "asset_id": "e_30",
+    "asset_type": "event",
+    "score": 0.14764144896833362,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_21",
+    "asset_id": "e_06",
+    "asset_type": "event",
+    "score": 0.14679584622476596,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_21",
+    "asset_id": "e_36",
+    "asset_type": "event",
+    "score": 0.14581637248269744,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_22",
+    "asset_id": "e_22",
+    "asset_type": "event",
+    "score": 0.34614110382694063,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_22",
+    "asset_id": "e_01",
+    "asset_type": "event",
+    "score": 0.24743385777253435,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_22",
+    "asset_id": "e_37",
+    "asset_type": "event",
+    "score": 0.19293096501824286,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_22",
+    "asset_id": "e_38",
+    "asset_type": "event",
+    "score": 0.1125792216453618,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_22",
+    "asset_id": "e_24",
+    "asset_type": "event",
+    "score": 0.06183214106283877,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_22",
+    "asset_id": "e_49",
+    "asset_type": "event",
+    "score": 0.05955913288822369,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_22",
+    "asset_id": "e_29",
+    "asset_type": "event",
+    "score": 0.05817694048332213,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_22",
+    "asset_id": "e_50",
+    "asset_type": "event",
+    "score": 0.05638988596884369,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_22",
+    "asset_id": "e_11",
+    "asset_type": "event",
+    "score": 0.05607218982711645,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_22",
+    "asset_id": "e_13",
+    "asset_type": "event",
+    "score": 0.05506210078566435,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_23",
+    "asset_id": "e_23",
+    "asset_type": "event",
+    "score": 0.4284843946593197,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_23",
+    "asset_id": "e_05",
+    "asset_type": "event",
+    "score": 0.2141186523705042,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_23",
+    "asset_id": "e_09",
+    "asset_type": "event",
+    "score": 0.13550360321955376,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_23",
+    "asset_id": "e_48",
+    "asset_type": "event",
+    "score": 0.07058872586357866,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_23",
+    "asset_id": "e_31",
+    "asset_type": "event",
+    "score": 0.07034208704871775,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_23",
+    "asset_id": "e_50",
+    "asset_type": "event",
+    "score": 0.05646764665719832,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_23",
+    "asset_id": "e_11",
+    "asset_type": "event",
+    "score": 0.05614901438900592,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_23",
+    "asset_id": "e_13",
+    "asset_type": "event",
+    "score": 0.05513594900960163,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_23",
+    "asset_id": "e_22",
+    "asset_type": "event",
+    "score": 0.05504271386018174,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_23",
+    "asset_id": "e_44",
+    "asset_type": "event",
+    "score": 0.05115648981444128,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_24",
+    "asset_id": "e_24",
+    "asset_type": "event",
+    "score": 0.39902509306308587,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_24",
+    "asset_id": "e_22",
+    "asset_type": "event",
+    "score": 0.11136828240280078,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_24",
+    "asset_id": "e_38",
+    "asset_type": "event",
+    "score": 0.10628522729678994,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_24",
+    "asset_id": "e_01",
+    "asset_type": "event",
+    "score": 0.0953534652034454,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_24",
+    "asset_id": "e_40",
+    "asset_type": "event",
+    "score": 0.06738477857329686,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_24",
+    "asset_id": "e_12",
+    "asset_type": "event",
+    "score": 0.0641343570764549,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_24",
+    "asset_id": "e_28",
+    "asset_type": "event",
+    "score": 0.06270662893894423,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_24",
+    "asset_id": "e_15",
+    "asset_type": "event",
+    "score": 0.062446005326155775,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_24",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.056726111896229135,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_24",
+    "asset_id": "e_29",
+    "asset_type": "event",
+    "score": 0.05602936024911152,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_25",
+    "asset_id": "e_25",
+    "asset_type": "event",
+    "score": 0.43312766620807874,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_25",
+    "asset_id": "e_44",
+    "asset_type": "event",
+    "score": 0.17979485153737437,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_25",
+    "asset_id": "e_04",
+    "asset_type": "event",
+    "score": 0.1743653559610232,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_25",
+    "asset_id": "e_48",
+    "asset_type": "event",
+    "score": 0.1538828557595657,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_25",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.14181066789772037,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_25",
+    "asset_id": "e_45",
+    "asset_type": "event",
+    "score": 0.1383298918949885,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_25",
+    "asset_id": "e_46",
+    "asset_type": "event",
+    "score": 0.13237244292509184,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_25",
+    "asset_id": "e_32",
+    "asset_type": "event",
+    "score": 0.12430753179158187,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_25",
+    "asset_id": "e_26",
+    "asset_type": "event",
+    "score": 0.10631725638418005,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_25",
+    "asset_id": "e_33",
+    "asset_type": "event",
+    "score": 0.10409261782199289,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_26",
+    "asset_id": "e_26",
+    "asset_type": "event",
+    "score": 0.2427081980398958,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_26",
+    "asset_id": "e_38",
+    "asset_type": "event",
+    "score": 0.18037866930128055,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_26",
+    "asset_id": "e_03",
+    "asset_type": "event",
+    "score": 0.17513255222231874,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_26",
+    "asset_id": "e_45",
+    "asset_type": "event",
+    "score": 0.10665884565986111,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_26",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.10159492252693496,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_26",
+    "asset_id": "e_25",
+    "asset_type": "event",
+    "score": 0.08708211526183807,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_26",
+    "asset_id": "e_46",
+    "asset_type": "event",
+    "score": 0.08530903248974006,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_26",
+    "asset_id": "e_33",
+    "asset_type": "event",
+    "score": 0.0824310922386694,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_26",
+    "asset_id": "e_32",
+    "asset_type": "event",
+    "score": 0.08095178146431944,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_26",
+    "asset_id": "e_15",
+    "asset_type": "event",
+    "score": 0.07779656306768823,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_27",
+    "asset_id": "e_27",
+    "asset_type": "event",
+    "score": 0.4414136644442683,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_27",
+    "asset_id": "e_07",
+    "asset_type": "event",
+    "score": 0.22208705659800504,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_27",
+    "asset_id": "e_13",
+    "asset_type": "event",
+    "score": 0.22147879430885575,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_27",
+    "asset_id": "e_18",
+    "asset_type": "event",
+    "score": 0.06190781801275586,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_27",
+    "asset_id": "e_47",
+    "asset_type": "event",
+    "score": 0.05869927894674139,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_27",
+    "asset_id": "e_04",
+    "asset_type": "event",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_27",
+    "asset_id": "e_03",
+    "asset_type": "event",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_27",
+    "asset_id": "e_05",
+    "asset_type": "event",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_27",
+    "asset_id": "e_08",
+    "asset_type": "event",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_27",
+    "asset_id": "e_09",
+    "asset_type": "event",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_28",
+    "asset_id": "e_28",
+    "asset_type": "event",
+    "score": 0.21742192562810178,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_28",
+    "asset_id": "e_12",
+    "asset_type": "event",
+    "score": 0.20173824782498828,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_28",
+    "asset_id": "e_15",
+    "asset_type": "event",
+    "score": 0.19818993443483346,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_28",
+    "asset_id": "e_40",
+    "asset_type": "event",
+    "score": 0.1896813180097663,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_28",
+    "asset_id": "e_09",
+    "asset_type": "event",
+    "score": 0.13211467963169726,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_28",
+    "asset_id": "e_23",
+    "asset_type": "event",
+    "score": 0.12963065347900657,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_28",
+    "asset_id": "e_44",
+    "asset_type": "event",
+    "score": 0.09295992725977777,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_28",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.07510810324892397,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_28",
+    "asset_id": "e_24",
+    "asset_type": "event",
+    "score": 0.06957593538910242,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_28",
+    "asset_id": "e_48",
+    "asset_type": "event",
+    "score": 0.06928495910791747,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_29",
+    "asset_id": "e_29",
+    "asset_type": "event",
+    "score": 0.257974967316005,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_29",
+    "asset_id": "e_17",
+    "asset_type": "event",
+    "score": 0.1542594128813094,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_29",
+    "asset_id": "e_41",
+    "asset_type": "event",
+    "score": 0.15421114149903425,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_29",
+    "asset_id": "e_50",
+    "asset_type": "event",
+    "score": 0.15273299557006575,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_29",
+    "asset_id": "e_08",
+    "asset_type": "event",
+    "score": 0.15129015358811965,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_29",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.15076705060523635,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_29",
+    "asset_id": "e_22",
+    "asset_type": "event",
+    "score": 0.12030024397211693,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_29",
+    "asset_id": "e_38",
+    "asset_type": "event",
+    "score": 0.11465921158649667,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_29",
+    "asset_id": "e_01",
+    "asset_type": "event",
+    "score": 0.0,
+    "reason": "text-based similarity; feedback adjusted (negative)"
+  },
+  {
+    "user_id": "u_29",
+    "asset_id": "e_07",
+    "asset_type": "event",
+    "score": 0.062477630059263316,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_30",
+    "asset_id": "e_30",
+    "asset_type": "event",
+    "score": 0.5368168490430951,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_30",
+    "asset_id": "e_18",
+    "asset_type": "event",
+    "score": 0.19517420222574475,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_30",
+    "asset_id": "e_13",
+    "asset_type": "event",
+    "score": 0.1862911876198403,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_30",
+    "asset_id": "e_16",
+    "asset_type": "event",
+    "score": 0.1662776006350123,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_30",
+    "asset_id": "e_02",
+    "asset_type": "event",
+    "score": 0.16362507957681047,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_30",
+    "asset_id": "e_14",
+    "asset_type": "event",
+    "score": 0.16179013715688623,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_30",
+    "asset_id": "e_21",
+    "asset_type": "event",
+    "score": 0.14959010636099696,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_30",
+    "asset_id": "e_32",
+    "asset_type": "event",
+    "score": 0.14820866959257634,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_30",
+    "asset_id": "e_06",
+    "asset_type": "event",
+    "score": 0.3476871834495798,
+    "reason": "text-based similarity; feedback adjusted (positive)"
+  },
+  {
+    "user_id": "u_30",
+    "asset_id": "e_36",
+    "asset_type": "event",
+    "score": 0.14665573010521255,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_31",
+    "asset_id": "e_31",
+    "asset_type": "event",
+    "score": 0.35244055613633385,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_31",
+    "asset_id": "e_49",
+    "asset_type": "event",
+    "score": 0.22825864363325907,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_31",
+    "asset_id": "e_35",
+    "asset_type": "event",
+    "score": 0.2005261432881867,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_31",
+    "asset_id": "e_09",
+    "asset_type": "event",
+    "score": 0.1893814578985029,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_31",
+    "asset_id": "e_23",
+    "asset_type": "event",
+    "score": 0.1855043688149177,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_31",
+    "asset_id": "e_48",
+    "asset_type": "event",
+    "score": 0.11766645516187002,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_31",
+    "asset_id": "e_28",
+    "asset_type": "event",
+    "score": 0.11004282916130982,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_31",
+    "asset_id": "e_44",
+    "asset_type": "event",
+    "score": 0.075695311351583,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_31",
+    "asset_id": "e_40",
+    "asset_type": "event",
+    "score": 0.07383298023784196,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_31",
+    "asset_id": "e_12",
+    "asset_type": "event",
+    "score": 0.07002191951545753,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_32",
+    "asset_id": "e_32",
+    "asset_type": "event",
+    "score": 0.5115252796308754,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_32",
+    "asset_id": "e_21",
+    "asset_type": "event",
+    "score": 0.17775349763629092,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_32",
+    "asset_id": "e_16",
+    "asset_type": "event",
+    "score": 0.16827679494447656,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_32",
+    "asset_id": "e_18",
+    "asset_type": "event",
+    "score": 0.16582813885165593,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_32",
+    "asset_id": "e_14",
+    "asset_type": "event",
+    "score": 0.16354203530308828,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_32",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.15618991842834795,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_32",
+    "asset_id": "e_45",
+    "asset_type": "event",
+    "score": 0.15226150222164142,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_32",
+    "asset_id": "e_30",
+    "asset_type": "event",
+    "score": 0.14960144341971013,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_32",
+    "asset_id": "e_25",
+    "asset_type": "event",
+    "score": 0.14924178855763695,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_32",
+    "asset_id": "e_06",
+    "asset_type": "event",
+    "score": 0.148661892798707,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_33",
+    "asset_id": "e_33",
+    "asset_type": "event",
+    "score": 0.5252961114162967,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_33",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.2109530182715186,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_33",
+    "asset_id": "e_34",
+    "asset_type": "event",
+    "score": 0.36907808547845167,
+    "reason": "text-based similarity; feedback adjusted (positive)"
+  },
+  {
+    "user_id": "u_33",
+    "asset_id": "e_39",
+    "asset_type": "event",
+    "score": 0.16477554753445078,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_33",
+    "asset_id": "e_45",
+    "asset_type": "event",
+    "score": 0.15868082899466812,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_33",
+    "asset_id": "e_25",
+    "asset_type": "event",
+    "score": 0.1258189997440646,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_33",
+    "asset_id": "e_46",
+    "asset_type": "event",
+    "score": 0.0,
+    "reason": "text-based similarity; feedback adjusted (negative)"
+  },
+  {
+    "user_id": "u_33",
+    "asset_id": "e_26",
+    "asset_type": "event",
+    "score": 0.1206542750696609,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_33",
+    "asset_id": "e_32",
+    "asset_type": "event",
+    "score": 0.11552851821791534,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_33",
+    "asset_id": "e_15",
+    "asset_type": "event",
+    "score": 0.11023211549435691,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_34",
+    "asset_id": "e_34",
+    "asset_type": "event",
+    "score": 0.4558718352915205,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_34",
+    "asset_id": "e_39",
+    "asset_type": "event",
+    "score": 0.20116800976503585,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_34",
+    "asset_id": "e_33",
+    "asset_type": "event",
+    "score": 0.19775717974881835,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_34",
+    "asset_id": "e_18",
+    "asset_type": "event",
+    "score": 0.07815186516591702,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_34",
+    "asset_id": "e_42",
+    "asset_type": "event",
+    "score": 0.2686387454892289,
+    "reason": "text-based similarity; feedback adjusted (positive)"
+  },
+  {
+    "user_id": "u_34",
+    "asset_id": "e_47",
+    "asset_type": "event",
+    "score": 0.06017595321368521,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_34",
+    "asset_id": "e_27",
+    "asset_type": "event",
+    "score": 0.05982448924022553,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_34",
+    "asset_id": "e_08",
+    "asset_type": "event",
+    "score": 0.04253577435031565,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_34",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.04222776807275355,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_34",
+    "asset_id": "e_07",
+    "asset_type": "event",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_35",
+    "asset_id": "e_35",
+    "asset_type": "event",
+    "score": 0.36873713890640325,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_35",
+    "asset_id": "e_31",
+    "asset_type": "event",
+    "score": 0.19688481052911228,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_35",
+    "asset_id": "e_49",
+    "asset_type": "event",
+    "score": 0.19191908057417062,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_35",
+    "asset_id": "e_30",
+    "asset_type": "event",
+    "score": 0.1262930709305713,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_35",
+    "asset_id": "e_13",
+    "asset_type": "event",
+    "score": 0.0904037034819074,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_35",
+    "asset_id": "e_18",
+    "asset_type": "event",
+    "score": 0.08194844618080052,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_35",
+    "asset_id": "e_02",
+    "asset_type": "event",
+    "score": 0.08164366467120833,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_35",
+    "asset_id": "e_20",
+    "asset_type": "event",
+    "score": 0.06024927109203958,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_35",
+    "asset_id": "e_08",
+    "asset_type": "event",
+    "score": 0.04352416976846363,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_35",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.04319187843399195,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_36",
+    "asset_id": "e_36",
+    "asset_type": "event",
+    "score": 0.2316648670267264,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_36",
+    "asset_id": "e_16",
+    "asset_type": "event",
+    "score": 0.16511752236331145,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_36",
+    "asset_id": "e_18",
+    "asset_type": "event",
+    "score": 0.16287097232628708,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_36",
+    "asset_id": "e_14",
+    "asset_type": "event",
+    "score": 0.16077355814602132,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_36",
+    "asset_id": "e_21",
+    "asset_type": "event",
+    "score": 0.14896365763418212,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_36",
+    "asset_id": "e_30",
+    "asset_type": "event",
+    "score": 0.14798358845465942,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_36",
+    "asset_id": "e_32",
+    "asset_type": "event",
+    "score": 0.14762639619022402,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_36",
+    "asset_id": "e_06",
+    "asset_type": "event",
+    "score": 0.14712158603276382,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_36",
+    "asset_id": "e_04",
+    "asset_type": "event",
+    "score": 0.09963935546664475,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_36",
+    "asset_id": "e_40",
+    "asset_type": "event",
+    "score": 0.06911872079432523,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_37",
+    "asset_id": "e_37",
+    "asset_type": "event",
+    "score": 0.5378344872785015,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_37",
+    "asset_id": "e_05",
+    "asset_type": "event",
+    "score": 0.18697417623816565,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_37",
+    "asset_id": "e_22",
+    "asset_type": "event",
+    "score": 0.16360374124822583,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_37",
+    "asset_id": "e_01",
+    "asset_type": "event",
+    "score": 0.15698988929740412,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_37",
+    "asset_id": "e_14",
+    "asset_type": "event",
+    "score": 0.08279675756075391,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_37",
+    "asset_id": "e_18",
+    "asset_type": "event",
+    "score": 0.08065536535822311,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_37",
+    "asset_id": "e_30",
+    "asset_type": "event",
+    "score": 0.062188973800240216,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_37",
+    "asset_id": "e_20",
+    "asset_type": "event",
+    "score": 0.059496317823525505,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_37",
+    "asset_id": "e_08",
+    "asset_type": "event",
+    "score": 0.04318753131525529,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_37",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.042863511249391306,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_38",
+    "asset_id": "e_38",
+    "asset_type": "event",
+    "score": 0.5950424994394425,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_38",
+    "asset_id": "e_26",
+    "asset_type": "event",
+    "score": 0.19730878566918916,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_38",
+    "asset_id": "e_03",
+    "asset_type": "event",
+    "score": 0.181749053621331,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_38",
+    "asset_id": "e_01",
+    "asset_type": "event",
+    "score": 0.13153508425532298,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_38",
+    "asset_id": "e_22",
+    "asset_type": "event",
+    "score": 0.13007670634559368,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_38",
+    "asset_id": "e_17",
+    "asset_type": "event",
+    "score": 0.0944531327799831,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_38",
+    "asset_id": "e_06",
+    "asset_type": "event",
+    "score": 0.08273974788425953,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_38",
+    "asset_id": "e_40",
+    "asset_type": "event",
+    "score": 0.06563680805060369,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_38",
+    "asset_id": "e_09",
+    "asset_type": "event",
+    "score": 0.06272449396001015,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_38",
+    "asset_id": "e_29",
+    "asset_type": "event",
+    "score": 0.062014103838627155,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_39",
+    "asset_id": "e_39",
+    "asset_type": "event",
+    "score": 0.6512650568763128,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_39",
+    "asset_id": "e_34",
+    "asset_type": "event",
+    "score": 0.21165422149325558,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_39",
+    "asset_id": "e_33",
+    "asset_type": "event",
+    "score": 0.19918147876249187,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_39",
+    "asset_id": "e_12",
+    "asset_type": "event",
+    "score": 0.17791136341799074,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_39",
+    "asset_id": "e_21",
+    "asset_type": "event",
+    "score": 0.11062362768318075,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_39",
+    "asset_id": "e_16",
+    "asset_type": "event",
+    "score": 0.06972264845327003,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_39",
+    "asset_id": "e_42",
+    "asset_type": "event",
+    "score": 0.06945095649467366,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_39",
+    "asset_id": "e_18",
+    "asset_type": "event",
+    "score": 0.04490923204921028,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_39",
+    "asset_id": "e_08",
+    "asset_type": "event",
+    "score": 0.04279928430024239,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_39",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.24248480353482582,
+    "reason": "text-based similarity; feedback adjusted (positive)"
+  },
+  {
+    "user_id": "u_40",
+    "asset_id": "e_40",
+    "asset_type": "event",
+    "score": 0.3543742252823998,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_40",
+    "asset_id": "e_12",
+    "asset_type": "event",
+    "score": 0.1703551031965822,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_40",
+    "asset_id": "e_28",
+    "asset_type": "event",
+    "score": 0.3686671816635398,
+    "reason": "text-based similarity; feedback adjusted (positive)"
+  },
+  {
+    "user_id": "u_40",
+    "asset_id": "e_15",
+    "asset_type": "event",
+    "score": 0.16835906123326516,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_40",
+    "asset_id": "e_17",
+    "asset_type": "event",
+    "score": 0.1606320761198203,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_40",
+    "asset_id": "e_06",
+    "asset_type": "event",
+    "score": 0.14165708563701404,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_40",
+    "asset_id": "e_07",
+    "asset_type": "event",
+    "score": 0.11710630532716529,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_40",
+    "asset_id": "e_38",
+    "asset_type": "event",
+    "score": 0.07747350102076991,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_40",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.06159675751911784,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_40",
+    "asset_id": "e_09",
+    "asset_type": "event",
+    "score": 0.061455878546656066,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_41",
+    "asset_id": "e_41",
+    "asset_type": "event",
+    "score": 0.6782073962884309,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_41",
+    "asset_id": "e_16",
+    "asset_type": "event",
+    "score": 0.21662070675712122,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_41",
+    "asset_id": "e_17",
+    "asset_type": "event",
+    "score": 0.3689283082381736,
+    "reason": "text-based similarity; feedback adjusted (positive)"
+  },
+  {
+    "user_id": "u_41",
+    "asset_id": "e_08",
+    "asset_type": "event",
+    "score": 0.15962751315571788,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_41",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.15889955971738204,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_41",
+    "asset_id": "e_50",
+    "asset_type": "event",
+    "score": 0.15024684173772884,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_41",
+    "asset_id": "e_29",
+    "asset_type": "event",
+    "score": 0.14903049309732505,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_41",
+    "asset_id": "e_48",
+    "asset_type": "event",
+    "score": 0.0630327502698812,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_41",
+    "asset_id": "e_06",
+    "asset_type": "event",
+    "score": 0.06227697240408713,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_41",
+    "asset_id": "e_40",
+    "asset_type": "event",
+    "score": 0.04776621585600901,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_42",
+    "asset_id": "e_42",
+    "asset_type": "event",
+    "score": 0.6158580494074231,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_42",
+    "asset_id": "e_02",
+    "asset_type": "event",
+    "score": 0.15647336833536357,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_42",
+    "asset_id": "e_19",
+    "asset_type": "event",
+    "score": 0.1561602198736496,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_42",
+    "asset_id": "e_18",
+    "asset_type": "event",
+    "score": 0.07880032665260885,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_42",
+    "asset_id": "e_34",
+    "asset_type": "event",
+    "score": 0.07272244421935417,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_42",
+    "asset_id": "e_39",
+    "asset_type": "event",
+    "score": 0.06801865857930305,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_42",
+    "asset_id": "e_47",
+    "asset_type": "event",
+    "score": 0.06058233297521395,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_42",
+    "asset_id": "e_27",
+    "asset_type": "event",
+    "score": 0.060226135834098915,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_42",
+    "asset_id": "e_08",
+    "asset_type": "event",
+    "score": 0.04270459370640972,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_42",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.042392439506270384,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_43",
+    "asset_id": "e_43",
+    "asset_type": "event",
+    "score": 0.36268003549692895,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_43",
+    "asset_id": "e_45",
+    "asset_type": "event",
+    "score": 0.19719221698454287,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_43",
+    "asset_id": "e_30",
+    "asset_type": "event",
+    "score": 0.1370758762833707,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_43",
+    "asset_id": "e_13",
+    "asset_type": "event",
+    "score": 0.1322050147646873,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_43",
+    "asset_id": "e_02",
+    "asset_type": "event",
+    "score": 0.11738274651991144,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_43",
+    "asset_id": "e_18",
+    "asset_type": "event",
+    "score": 0.0433278115968818,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_43",
+    "asset_id": "e_08",
+    "asset_type": "event",
+    "score": 0.04144166575216685,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_43",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.04116054192375765,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_43",
+    "asset_id": "e_07",
+    "asset_type": "event",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_43",
+    "asset_id": "e_06",
+    "asset_type": "event",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_44",
+    "asset_id": "e_44",
+    "asset_type": "event",
+    "score": 0.5308732402627419,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_44",
+    "asset_id": "e_48",
+    "asset_type": "event",
+    "score": 0.19946696268783914,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_44",
+    "asset_id": "e_04",
+    "asset_type": "event",
+    "score": 0.1799805984475737,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_44",
+    "asset_id": "e_09",
+    "asset_type": "event",
+    "score": 0.1709219075439355,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_44",
+    "asset_id": "e_25",
+    "asset_type": "event",
+    "score": 0.16032159301512128,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_44",
+    "asset_id": "e_23",
+    "asset_type": "event",
+    "score": 0.13793978042763694,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_44",
+    "asset_id": "e_31",
+    "asset_type": "event",
+    "score": 0.07230267205879534,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_44",
+    "asset_id": "e_07",
+    "asset_type": "event",
+    "score": 0.06525599599769222,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_44",
+    "asset_id": "e_40",
+    "asset_type": "event",
+    "score": 0.06298667458735258,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_44",
+    "asset_id": "e_17",
+    "asset_type": "event",
+    "score": 0.062161864120597994,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_45",
+    "asset_id": "e_45",
+    "asset_type": "event",
+    "score": 0.6418677584401477,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_45",
+    "asset_id": "e_43",
+    "asset_type": "event",
+    "score": 0.1999103450309097,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_45",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.19018673111453854,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_45",
+    "asset_id": "e_25",
+    "asset_type": "event",
+    "score": 0.13559467560020283,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_45",
+    "asset_id": "e_46",
+    "asset_type": "event",
+    "score": 0.13231469728697504,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_45",
+    "asset_id": "e_26",
+    "asset_type": "event",
+    "score": 0.12990303377535894,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_45",
+    "asset_id": "e_33",
+    "asset_type": "event",
+    "score": 0.12699087272625942,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_45",
+    "asset_id": "e_32",
+    "asset_type": "event",
+    "score": 0.12425433536052168,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_45",
+    "asset_id": "e_15",
+    "asset_type": "event",
+    "score": 0.11841758138755167,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_45",
+    "asset_id": "e_50",
+    "asset_type": "event",
+    "score": 0.10251357467816803,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_46",
+    "asset_id": "e_46",
+    "asset_type": "event",
+    "score": 0.5350398269239544,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_46",
+    "asset_id": "e_11",
+    "asset_type": "event",
+    "score": 0.2000306216453906,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_46",
+    "asset_id": "e_20",
+    "asset_type": "event",
+    "score": 0.19462611496499016,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_46",
+    "asset_id": "e_09",
+    "asset_type": "event",
+    "score": 0.15920168023782746,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_46",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.15668847969055233,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_46",
+    "asset_id": "e_45",
+    "asset_type": "event",
+    "score": 0.15274454278166233,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_46",
+    "asset_id": "e_25",
+    "asset_type": "event",
+    "score": 0.14971289859044484,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_46",
+    "asset_id": "e_32",
+    "asset_type": "event",
+    "score": 0.1368563317855606,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_46",
+    "asset_id": "e_26",
+    "asset_type": "event",
+    "score": 0.11647222458513722,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_46",
+    "asset_id": "e_33",
+    "asset_type": "event",
+    "score": 0.11395156995885165,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_47",
+    "asset_id": "e_47",
+    "asset_type": "event",
+    "score": 0.46356595932940126,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_47",
+    "asset_id": "e_18",
+    "asset_type": "event",
+    "score": 0.13081615556203435,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_47",
+    "asset_id": "e_27",
+    "asset_type": "event",
+    "score": 0.10826716208026603,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_47",
+    "asset_id": "e_08",
+    "asset_type": "event",
+    "score": 0.06250671090387584,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_47",
+    "asset_id": "e_25",
+    "asset_type": "event",
+    "score": 0.05512876462453854,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_47",
+    "asset_id": "e_46",
+    "asset_type": "event",
+    "score": 0.05434821577074261,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_47",
+    "asset_id": "e_21",
+    "asset_type": "event",
+    "score": 0.05413176191510972,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_47",
+    "asset_id": "e_32",
+    "asset_type": "event",
+    "score": 0.052430060934931466,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_47",
+    "asset_id": "e_40",
+    "asset_type": "event",
+    "score": 0.048265907674058084,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_47",
+    "asset_id": "e_17",
+    "asset_type": "event",
+    "score": 0.04780918046457718,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_48",
+    "asset_id": "e_48",
+    "asset_type": "event",
+    "score": 0.5551129397335515,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_48",
+    "asset_id": "e_44",
+    "asset_type": "event",
+    "score": 0.27885786660789136,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_48",
+    "asset_id": "e_31",
+    "asset_type": "event",
+    "score": 0.38445515492441207,
+    "reason": "text-based similarity; feedback adjusted (positive)"
+  },
+  {
+    "user_id": "u_48",
+    "asset_id": "e_04",
+    "asset_type": "event",
+    "score": 0.1773717610365629,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_48",
+    "asset_id": "e_09",
+    "asset_type": "event",
+    "score": 0.17667877679150681,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_48",
+    "asset_id": "e_23",
+    "asset_type": "event",
+    "score": 0.17311069119491168,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_48",
+    "asset_id": "e_25",
+    "asset_type": "event",
+    "score": 0.1587388967554463,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_48",
+    "asset_id": "e_41",
+    "asset_type": "event",
+    "score": 0.06961736963674547,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_48",
+    "asset_id": "e_21",
+    "asset_type": "event",
+    "score": 0.06902763009247098,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_48",
+    "asset_id": "e_28",
+    "asset_type": "event",
+    "score": 0.06837181756815774,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_49",
+    "asset_id": "e_49",
+    "asset_type": "event",
+    "score": 0.558063901973624,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_49",
+    "asset_id": "e_31",
+    "asset_type": "event",
+    "score": 0.23265954474460768,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_49",
+    "asset_id": "e_35",
+    "asset_type": "event",
+    "score": 0.19821434324210513,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_49",
+    "asset_id": "e_09",
+    "asset_type": "event",
+    "score": 0.14020235897588026,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_49",
+    "asset_id": "e_23",
+    "asset_type": "event",
+    "score": 0.13752159316658008,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_49",
+    "asset_id": "e_48",
+    "asset_type": "event",
+    "score": 0.0723964035492077,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_49",
+    "asset_id": "e_34",
+    "asset_type": "event",
+    "score": 0.07115123070347446,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_49",
+    "asset_id": "e_42",
+    "asset_type": "event",
+    "score": 0.06771893040485126,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_49",
+    "asset_id": "e_39",
+    "asset_type": "event",
+    "score": 0.06662043730926728,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_49",
+    "asset_id": "e_44",
+    "asset_type": "event",
+    "score": 0.052098724726479285,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_50",
+    "asset_id": "e_50",
+    "asset_type": "event",
+    "score": 0.884547668098316,
+    "reason": "text-based similarity; feedback adjusted (positive)"
+  },
+  {
+    "user_id": "u_50",
+    "asset_id": "e_10",
+    "asset_type": "event",
+    "score": 0.22784433594552564,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_50",
+    "asset_id": "e_11",
+    "asset_type": "event",
+    "score": 0.18900643179947116,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_50",
+    "asset_id": "e_17",
+    "asset_type": "event",
+    "score": 0.15502830512573015,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_50",
+    "asset_id": "e_41",
+    "asset_type": "event",
+    "score": 0.15497850380158706,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_50",
+    "asset_id": "e_29",
+    "asset_type": "event",
+    "score": 0.15204451637511132,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_50",
+    "asset_id": "e_08",
+    "asset_type": "event",
+    "score": 0.1519649363644598,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_50",
+    "asset_id": "e_45",
+    "asset_type": "event",
+    "score": 0.11182421900127354,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_50",
+    "asset_id": "e_25",
+    "asset_type": "event",
+    "score": 0.09092838288962359,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_50",
+    "asset_id": "e_46",
+    "asset_type": "event",
+    "score": 0.08903582747996787,
+    "reason": "text-based similarity"
+  }
+]

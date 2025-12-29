@@ -1,0 +1,3502 @@
+[
+  {
+    "user_id": "u_01",
+    "asset_id": "j_01",
+    "asset_type": "job",
+    "score": 0.2105818286161006,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_01",
+    "asset_id": "j_37",
+    "asset_type": "job",
+    "score": 0.20390519334455,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_01",
+    "asset_id": "j_22",
+    "asset_type": "job",
+    "score": 0.19232262451593807,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_01",
+    "asset_id": "j_34",
+    "asset_type": "job",
+    "score": 0.05788543656865218,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_01",
+    "asset_id": "j_14",
+    "asset_type": "job",
+    "score": 0.0570444163601308,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_01",
+    "asset_id": "j_38",
+    "asset_type": "job",
+    "score": 0.054692486766340614,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_01",
+    "asset_id": "j_07",
+    "asset_type": "job",
+    "score": 0.05421327443115494,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_01",
+    "asset_id": "j_06",
+    "asset_type": "job",
+    "score": 0.052848666851069453,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_01",
+    "asset_id": "j_05",
+    "asset_type": "job",
+    "score": 0.05255500322765484,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_01",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.043280084844160835,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_02",
+    "asset_id": "j_02",
+    "asset_type": "job",
+    "score": 0.20442172150075416,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_02",
+    "asset_id": "j_19",
+    "asset_type": "job",
+    "score": 0.18065389986059308,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_02",
+    "asset_id": "j_42",
+    "asset_type": "job",
+    "score": 0.16465083682303325,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_02",
+    "asset_id": "j_37",
+    "asset_type": "job",
+    "score": 0.06891977702587672,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_02",
+    "asset_id": "j_14",
+    "asset_type": "job",
+    "score": 0.06055334702428249,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_02",
+    "asset_id": "j_13",
+    "asset_type": "job",
+    "score": 0.06028582471671687,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_02",
+    "asset_id": "j_05",
+    "asset_type": "job",
+    "score": 0.05548144620951313,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_02",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.045003135410743175,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_02",
+    "asset_id": "j_16",
+    "asset_type": "job",
+    "score": 0.04423816041233919,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_02",
+    "asset_id": "j_08",
+    "asset_type": "job",
+    "score": 0.04202276987310433,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_03",
+    "asset_id": "j_03",
+    "asset_type": "job",
+    "score": 0.1739887496743144,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_03",
+    "asset_id": "j_26",
+    "asset_type": "job",
+    "score": 0.16304720264318123,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_03",
+    "asset_id": "j_38",
+    "asset_type": "job",
+    "score": 0.1612037033449624,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_03",
+    "asset_id": "j_02",
+    "asset_type": "job",
+    "score": 0.11234421180656831,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_03",
+    "asset_id": "j_13",
+    "asset_type": "job",
+    "score": 0.05896427794296456,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_03",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.04434846130549114,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_03",
+    "asset_id": "j_19",
+    "asset_type": "job",
+    "score": 0.04423362085443502,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_03",
+    "asset_id": "j_16",
+    "asset_type": "job",
+    "score": 0.043616866617862834,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_03",
+    "asset_id": "j_08",
+    "asset_type": "job",
+    "score": 0.041498146459808365,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_03",
+    "asset_id": "j_07",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_04",
+    "asset_id": "j_48",
+    "asset_type": "job",
+    "score": 0.1597846160556075,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_04",
+    "asset_id": "j_44",
+    "asset_type": "job",
+    "score": 0.15870801892422887,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_04",
+    "asset_id": "j_25",
+    "asset_type": "job",
+    "score": 0.1560945451360561,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_04",
+    "asset_id": "j_04",
+    "asset_type": "job",
+    "score": 0.15127987212517566,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_04",
+    "asset_id": "j_36",
+    "asset_type": "job",
+    "score": 0.07703577042609389,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_04",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.04376445774766408,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_04",
+    "asset_id": "j_19",
+    "asset_type": "job",
+    "score": 0.04365429147250538,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_04",
+    "asset_id": "j_16",
+    "asset_type": "job",
+    "score": 0.04306264004387855,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_04",
+    "asset_id": "j_08",
+    "asset_type": "job",
+    "score": 0.04103015492413235,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_04",
+    "asset_id": "j_07",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_05",
+    "asset_id": "j_05",
+    "asset_type": "job",
+    "score": 0.2739553604770544,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_05",
+    "asset_id": "j_23",
+    "asset_type": "job",
+    "score": 0.2137549655657513,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_05",
+    "asset_id": "j_40",
+    "asset_type": "job",
+    "score": 0.0958510082999117,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_05",
+    "asset_id": "j_37",
+    "asset_type": "job",
+    "score": 0.09377016475936396,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_05",
+    "asset_id": "j_14",
+    "asset_type": "job",
+    "score": 0.0800617455334619,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_05",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.07684729245213026,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_05",
+    "asset_id": "j_01",
+    "asset_type": "job",
+    "score": 0.06694322561007736,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_05",
+    "asset_id": "j_06",
+    "asset_type": "job",
+    "score": 0.05699713998977114,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_05",
+    "asset_id": "j_04",
+    "asset_type": "job",
+    "score": 0.055249875386320535,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_05",
+    "asset_id": "j_28",
+    "asset_type": "job",
+    "score": 0.04975067443877457,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_06",
+    "asset_id": "j_06",
+    "asset_type": "job",
+    "score": 0.2681300976577134,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_06",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.16100076110900355,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_06",
+    "asset_id": "j_16",
+    "asset_type": "job",
+    "score": 0.15942010436422063,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_06",
+    "asset_id": "j_32",
+    "asset_type": "job",
+    "score": 0.15241148897498413,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_06",
+    "asset_id": "j_30",
+    "asset_type": "job",
+    "score": 0.15152171407034204,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_06",
+    "asset_id": "j_36",
+    "asset_type": "job",
+    "score": 0.14981267209728047,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_06",
+    "asset_id": "j_21",
+    "asset_type": "job",
+    "score": 0.1478347685676621,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_06",
+    "asset_id": "j_14",
+    "asset_type": "job",
+    "score": 0.14719650236887136,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_06",
+    "asset_id": "j_01",
+    "asset_type": "job",
+    "score": 0.13301325394173294,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_06",
+    "asset_id": "j_47",
+    "asset_type": "job",
+    "score": 0.07971299412169475,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_07",
+    "asset_id": "j_07",
+    "asset_type": "job",
+    "score": 0.3020563074421428,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_07",
+    "asset_id": "j_27",
+    "asset_type": "job",
+    "score": 0.23082930601147686,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_07",
+    "asset_id": "j_13",
+    "asset_type": "job",
+    "score": 0.22348871850294852,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_07",
+    "asset_id": "j_06",
+    "asset_type": "job",
+    "score": 0.08469912680234057,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_07",
+    "asset_id": "j_47",
+    "asset_type": "job",
+    "score": 0.08402072912113173,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_07",
+    "asset_id": "j_01",
+    "asset_type": "job",
+    "score": 0.07966984680212784,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_07",
+    "asset_id": "j_39",
+    "asset_type": "job",
+    "score": 0.07360109648105598,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_07",
+    "asset_id": "j_34",
+    "asset_type": "job",
+    "score": 0.058303628092457024,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_07",
+    "asset_id": "j_38",
+    "asset_type": "job",
+    "score": 0.05506279435115911,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_07",
+    "asset_id": "j_09",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_08",
+    "asset_id": "j_08",
+    "asset_type": "job",
+    "score": 0.15912283824592566,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_08",
+    "asset_id": "j_41",
+    "asset_type": "job",
+    "score": 0.15634053375316395,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_08",
+    "asset_id": "j_50",
+    "asset_type": "job",
+    "score": 0.15379815991761875,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_08",
+    "asset_id": "j_17",
+    "asset_type": "job",
+    "score": 0.15337525116128503,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_08",
+    "asset_id": "j_29",
+    "asset_type": "job",
+    "score": 0.15268884706363506,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_08",
+    "asset_id": "j_05",
+    "asset_type": "job",
+    "score": 0.15064813100697114,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_08",
+    "asset_id": "j_10",
+    "asset_type": "job",
+    "score": 0.14756508145336444,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_08",
+    "asset_id": "j_01",
+    "asset_type": "job",
+    "score": 0.07858937222282446,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_08",
+    "asset_id": "j_37",
+    "asset_type": "job",
+    "score": 0.06393864249330787,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_08",
+    "asset_id": "j_06",
+    "asset_type": "job",
+    "score": 0.05873589196176844,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_09",
+    "asset_id": "j_09",
+    "asset_type": "job",
+    "score": 0.17442268695999688,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_09",
+    "asset_id": "j_46",
+    "asset_type": "job",
+    "score": 0.16410643491869098,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_09",
+    "asset_id": "j_20",
+    "asset_type": "job",
+    "score": 0.16096516488167542,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_09",
+    "asset_id": "j_11",
+    "asset_type": "job",
+    "score": 0.15632475628972248,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_09",
+    "asset_id": "j_28",
+    "asset_type": "job",
+    "score": 0.08550971661690557,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_09",
+    "asset_id": "j_39",
+    "asset_type": "job",
+    "score": 0.07241814435381286,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_09",
+    "asset_id": "j_49",
+    "asset_type": "job",
+    "score": 0.06964883220941497,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_09",
+    "asset_id": "j_03",
+    "asset_type": "job",
+    "score": 0.05617685235650974,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_09",
+    "asset_id": "j_31",
+    "asset_type": "job",
+    "score": 0.054404116971217054,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_09",
+    "asset_id": "j_48",
+    "asset_type": "job",
+    "score": 0.05388514484886546,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_10",
+    "asset_id": "j_10",
+    "asset_type": "job",
+    "score": 0.2401241433407694,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_10",
+    "asset_id": "j_08",
+    "asset_type": "job",
+    "score": 0.15800536196822945,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_10",
+    "asset_id": "j_41",
+    "asset_type": "job",
+    "score": 0.1553298176491065,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_10",
+    "asset_id": "j_50",
+    "asset_type": "job",
+    "score": 0.35288499757622227,
+    "reason": "text-based similarity; feedback adjusted (positive)"
+  },
+  {
+    "user_id": "u_10",
+    "asset_id": "j_17",
+    "asset_type": "job",
+    "score": 0.15247831630770559,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_10",
+    "asset_id": "j_29",
+    "asset_type": "job",
+    "score": 0.15181825031246035,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_10",
+    "asset_id": "j_33",
+    "asset_type": "job",
+    "score": 0.11241534067171133,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_10",
+    "asset_id": "j_26",
+    "asset_type": "job",
+    "score": 0.10997269836555575,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_10",
+    "asset_id": "j_15",
+    "asset_type": "job",
+    "score": 0.08930181125755092,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_10",
+    "asset_id": "j_32",
+    "asset_type": "job",
+    "score": 0.08264066246646468,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_11",
+    "asset_id": "j_11",
+    "asset_type": "job",
+    "score": 0.3498880048214529,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_11",
+    "asset_id": "j_46",
+    "asset_type": "job",
+    "score": 0.23136550808408146,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_11",
+    "asset_id": "j_20",
+    "asset_type": "job",
+    "score": 0.19602790642892176,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_11",
+    "asset_id": "j_26",
+    "asset_type": "job",
+    "score": 0.1758586172019841,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_11",
+    "asset_id": "j_10",
+    "asset_type": "job",
+    "score": 0.16705219379137143,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_11",
+    "asset_id": "j_50",
+    "asset_type": "job",
+    "score": 0.15587747695490078,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_11",
+    "asset_id": "j_09",
+    "asset_type": "job",
+    "score": 0.15206168696944536,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_11",
+    "asset_id": "j_33",
+    "asset_type": "job",
+    "score": 0.06972100059322271,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_11",
+    "asset_id": "j_25",
+    "asset_type": "job",
+    "score": 0.06465173196334084,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_11",
+    "asset_id": "j_31",
+    "asset_type": "job",
+    "score": 0.056967511708440804,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_12",
+    "asset_id": "j_40",
+    "asset_type": "job",
+    "score": 0.15643833295194723,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_12",
+    "asset_id": "j_28",
+    "asset_type": "job",
+    "score": 0.1524141403077828,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_12",
+    "asset_id": "j_15",
+    "asset_type": "job",
+    "score": 0.1501949191410492,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_12",
+    "asset_id": "j_12",
+    "asset_type": "job",
+    "score": 0.049029720152665456,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_12",
+    "asset_id": "j_05",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_12",
+    "asset_id": "j_06",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_12",
+    "asset_id": "j_03",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_12",
+    "asset_id": "j_01",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_12",
+    "asset_id": "j_08",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_12",
+    "asset_id": "j_07",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_13",
+    "asset_id": "j_13",
+    "asset_type": "job",
+    "score": 0.26732293693951786,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_13",
+    "asset_id": "j_27",
+    "asset_type": "job",
+    "score": 0.22361343208645157,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_13",
+    "asset_id": "j_07",
+    "asset_type": "job",
+    "score": 0.2083981646394965,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_13",
+    "asset_id": "j_02",
+    "asset_type": "job",
+    "score": 0.20288619453196158,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_13",
+    "asset_id": "j_30",
+    "asset_type": "job",
+    "score": 0.07645365183014978,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_13",
+    "asset_id": "j_05",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_13",
+    "asset_id": "j_04",
+    "asset_type": "job",
+    "score": 0.23,
+    "reason": "text-based similarity; feedback adjusted (positive)"
+  },
+  {
+    "user_id": "u_13",
+    "asset_id": "j_03",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_13",
+    "asset_id": "j_08",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_13",
+    "asset_id": "j_09",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_14",
+    "asset_id": "j_14",
+    "asset_type": "job",
+    "score": 0.3317389348554824,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_14",
+    "asset_id": "j_32",
+    "asset_type": "job",
+    "score": 0.15319246991569205,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_14",
+    "asset_id": "j_30",
+    "asset_type": "job",
+    "score": 0.1522716887158939,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_14",
+    "asset_id": "j_36",
+    "asset_type": "job",
+    "score": 0.15050309116357913,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_14",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.14924441780163986,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_14",
+    "asset_id": "j_21",
+    "asset_type": "job",
+    "score": 0.14845626294266,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_14",
+    "asset_id": "j_16",
+    "asset_type": "job",
+    "score": 0.14826318967338117,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_14",
+    "asset_id": "j_06",
+    "asset_type": "job",
+    "score": 0.14503486962867537,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_14",
+    "asset_id": "j_37",
+    "asset_type": "job",
+    "score": 0.0965992886659825,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_14",
+    "asset_id": "j_05",
+    "asset_type": "job",
+    "score": 0.07360369769348242,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_15",
+    "asset_id": "j_15",
+    "asset_type": "job",
+    "score": 0.34706201340021137,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_15",
+    "asset_id": "j_40",
+    "asset_type": "job",
+    "score": 0.15409089463263265,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_15",
+    "asset_id": "j_28",
+    "asset_type": "job",
+    "score": 0.1504240068168167,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_15",
+    "asset_id": "j_32",
+    "asset_type": "job",
+    "score": 0.08835884225305593,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_15",
+    "asset_id": "j_26",
+    "asset_type": "job",
+    "score": 0.08386356464891301,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_15",
+    "asset_id": "j_10",
+    "asset_type": "job",
+    "score": 0.07057764539250667,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_15",
+    "asset_id": "j_46",
+    "asset_type": "job",
+    "score": 0.05981394394037738,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_15",
+    "asset_id": "j_07",
+    "asset_type": "job",
+    "score": 0.05795790305538144,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_15",
+    "asset_id": "j_33",
+    "asset_type": "job",
+    "score": 0.057593983995032044,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_15",
+    "asset_id": "j_20",
+    "asset_type": "job",
+    "score": 0.05706802080275136,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_16",
+    "asset_id": "j_16",
+    "asset_type": "job",
+    "score": 0.3153712657216675,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_16",
+    "asset_id": "j_32",
+    "asset_type": "job",
+    "score": 0.15374502206743432,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_16",
+    "asset_id": "j_30",
+    "asset_type": "job",
+    "score": 0.15280230359079233,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_16",
+    "asset_id": "j_36",
+    "asset_type": "job",
+    "score": 0.15099156984571116,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_16",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.14970290904918607,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_16",
+    "asset_id": "j_21",
+    "asset_type": "job",
+    "score": 0.14889597668764532,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_16",
+    "asset_id": "j_14",
+    "asset_type": "job",
+    "score": 0.14821973224033974,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_16",
+    "asset_id": "j_06",
+    "asset_type": "job",
+    "score": 0.14539306992362835,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_16",
+    "asset_id": "j_39",
+    "asset_type": "job",
+    "score": 0.07251172781918674,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_16",
+    "asset_id": "j_07",
+    "asset_type": "job",
+    "score": 0.05890834342214071,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_17",
+    "asset_id": "j_17",
+    "asset_type": "job",
+    "score": 0.3372917479993671,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_17",
+    "asset_id": "j_29",
+    "asset_type": "job",
+    "score": 0.18589259210868248,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_17",
+    "asset_id": "j_08",
+    "asset_type": "job",
+    "score": 0.1587612537944086,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_17",
+    "asset_id": "j_41",
+    "asset_type": "job",
+    "score": 0.1560134939444277,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_17",
+    "asset_id": "j_50",
+    "asset_type": "job",
+    "score": 0.15350268581141172,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_17",
+    "asset_id": "j_10",
+    "asset_type": "job",
+    "score": 0.1473469962416988,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_17",
+    "asset_id": "j_07",
+    "asset_type": "job",
+    "score": 0.11398343829164297,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_17",
+    "asset_id": "j_34",
+    "asset_type": "job",
+    "score": 0.09382368796628493,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_17",
+    "asset_id": "j_06",
+    "asset_type": "job",
+    "score": 0.07904850970648532,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_17",
+    "asset_id": "j_01",
+    "asset_type": "job",
+    "score": 0.07453877247067059,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_18",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.38901043314086564,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_18",
+    "asset_id": "j_21",
+    "asset_type": "job",
+    "score": 0.17968323602417935,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_18",
+    "asset_id": "j_16",
+    "asset_type": "job",
+    "score": 0.16236157556494563,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_18",
+    "asset_id": "j_32",
+    "asset_type": "job",
+    "score": 0.15465222709641152,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_18",
+    "asset_id": "j_30",
+    "asset_type": "job",
+    "score": 0.15367349100982627,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_18",
+    "asset_id": "j_36",
+    "asset_type": "job",
+    "score": 0.15179357616417538,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_18",
+    "asset_id": "j_14",
+    "asset_type": "job",
+    "score": 0.14891583741422051,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_18",
+    "asset_id": "j_06",
+    "asset_type": "job",
+    "score": 0.14598117931373356,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_18",
+    "asset_id": "j_47",
+    "asset_type": "job",
+    "score": 0.2661873063567088,
+    "reason": "text-based similarity; feedback adjusted (positive)"
+  },
+  {
+    "user_id": "u_18",
+    "asset_id": "j_42",
+    "asset_type": "job",
+    "score": 0.060124607448811714,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_19",
+    "asset_id": "j_16",
+    "asset_type": "job",
+    "score": 0.17636164141006344,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_19",
+    "asset_id": "j_19",
+    "asset_type": "job",
+    "score": 0.1693156366090251,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_19",
+    "asset_id": "j_42",
+    "asset_type": "job",
+    "score": 0.15689466581018055,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_19",
+    "asset_id": "j_02",
+    "asset_type": "job",
+    "score": 0.350392625259736,
+    "reason": "text-based similarity; feedback adjusted (positive)"
+  },
+  {
+    "user_id": "u_19",
+    "asset_id": "j_08",
+    "asset_type": "job",
+    "score": 0.0748835460555329,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_19",
+    "asset_id": "j_03",
+    "asset_type": "job",
+    "score": 0.05959924124182227,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_19",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.041644864885589265,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_19",
+    "asset_id": "j_04",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_19",
+    "asset_id": "j_07",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_19",
+    "asset_id": "j_09",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_20",
+    "asset_id": "j_20",
+    "asset_type": "job",
+    "score": 0.2433848937686629,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_20",
+    "asset_id": "j_46",
+    "asset_type": "job",
+    "score": 0.20307205711701248,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_20",
+    "asset_id": "j_11",
+    "asset_type": "job",
+    "score": 0.18640003418064263,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_20",
+    "asset_id": "j_09",
+    "asset_type": "job",
+    "score": 0.152166626099571,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_20",
+    "asset_id": "j_26",
+    "asset_type": "job",
+    "score": 0.1079043558462126,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_20",
+    "asset_id": "j_10",
+    "asset_type": "job",
+    "score": 0.0886885652047736,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_20",
+    "asset_id": "j_33",
+    "asset_type": "job",
+    "score": 0.0699099384226709,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_20",
+    "asset_id": "j_25",
+    "asset_type": "job",
+    "score": 0.06481655719246388,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_20",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.04225557341542735,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_20",
+    "asset_id": "j_19",
+    "asset_type": "job",
+    "score": 0.04215748376323304,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_21",
+    "asset_id": "j_21",
+    "asset_type": "job",
+    "score": 0.30419089662220433,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_21",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.18721891015011558,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_21",
+    "asset_id": "j_16",
+    "asset_type": "job",
+    "score": 0.1582919543623914,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_21",
+    "asset_id": "j_32",
+    "asset_type": "job",
+    "score": 0.1515520929301872,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_21",
+    "asset_id": "j_30",
+    "asset_type": "job",
+    "score": 0.15069643753606327,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_21",
+    "asset_id": "j_36",
+    "asset_type": "job",
+    "score": 0.14905293087454125,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_21",
+    "asset_id": "j_14",
+    "asset_type": "job",
+    "score": 0.14653708138454297,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_21",
+    "asset_id": "j_06",
+    "asset_type": "job",
+    "score": 0.3439714704215794,
+    "reason": "text-based similarity; feedback adjusted (positive)"
+  },
+  {
+    "user_id": "u_21",
+    "asset_id": "j_35",
+    "asset_type": "job",
+    "score": 0.07513789343361646,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_21",
+    "asset_id": "j_31",
+    "asset_type": "job",
+    "score": 0.0699800101270841,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_22",
+    "asset_id": "j_22",
+    "asset_type": "job",
+    "score": 0.2178432810058151,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_22",
+    "asset_id": "j_01",
+    "asset_type": "job",
+    "score": 0.17395907365514165,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_22",
+    "asset_id": "j_37",
+    "asset_type": "job",
+    "score": 0.167374872619624,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_22",
+    "asset_id": "j_13",
+    "asset_type": "job",
+    "score": 0.10456704466593739,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_22",
+    "asset_id": "j_42",
+    "asset_type": "job",
+    "score": 0.09423322553860274,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_22",
+    "asset_id": "j_39",
+    "asset_type": "job",
+    "score": 0.06613344011914304,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_22",
+    "asset_id": "j_21",
+    "asset_type": "job",
+    "score": 0.06205340223110583,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_22",
+    "asset_id": "j_49",
+    "asset_type": "job",
+    "score": 0.06055387864029119,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_22",
+    "asset_id": "j_24",
+    "asset_type": "job",
+    "score": 0.05778770983813329,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_22",
+    "asset_id": "j_05",
+    "asset_type": "job",
+    "score": 0.05577579442224659,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_23",
+    "asset_id": "j_23",
+    "asset_type": "job",
+    "score": 0.29816417599377526,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_23",
+    "asset_id": "j_05",
+    "asset_type": "job",
+    "score": 0.20755523686787256,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_23",
+    "asset_id": "j_31",
+    "asset_type": "job",
+    "score": 0.10229198711944394,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_23",
+    "asset_id": "j_48",
+    "asset_type": "job",
+    "score": 0.2515937554342103,
+    "reason": "text-based similarity; feedback adjusted (positive)"
+  },
+  {
+    "user_id": "u_23",
+    "asset_id": "j_09",
+    "asset_type": "job",
+    "score": 0.04734082077574324,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_23",
+    "asset_id": "j_04",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_23",
+    "asset_id": "j_03",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_23",
+    "asset_id": "j_06",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_23",
+    "asset_id": "j_08",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_23",
+    "asset_id": "j_10",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_24",
+    "asset_id": "j_24",
+    "asset_type": "job",
+    "score": 0.34840574068986213,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_24",
+    "asset_id": "j_22",
+    "asset_type": "job",
+    "score": 0.16314845873211475,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_24",
+    "asset_id": "j_01",
+    "asset_type": "job",
+    "score": 0.06156541249524131,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_24",
+    "asset_id": "j_40",
+    "asset_type": "job",
+    "score": 0.052026256027722234,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_24",
+    "asset_id": "j_28",
+    "asset_type": "job",
+    "score": 0.048673627946127784,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_24",
+    "asset_id": "j_15",
+    "asset_type": "job",
+    "score": 0.0468247544301819,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_24",
+    "asset_id": "j_12",
+    "asset_type": "job",
+    "score": 0.04585400596097884,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_24",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.04162106686999444,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_24",
+    "asset_id": "j_19",
+    "asset_type": "job",
+    "score": 0.041528055603302534,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_24",
+    "asset_id": "j_16",
+    "asset_type": "job",
+    "score": 0.04102853568454897,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_25",
+    "asset_id": "j_25",
+    "asset_type": "job",
+    "score": 0.3267093390846115,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_25",
+    "asset_id": "j_48",
+    "asset_type": "job",
+    "score": 0.15541200963420002,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_25",
+    "asset_id": "j_44",
+    "asset_type": "job",
+    "score": 0.1544934650867844,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_25",
+    "asset_id": "j_04",
+    "asset_type": "job",
+    "score": 0.14815582629804286,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_25",
+    "asset_id": "j_46",
+    "asset_type": "job",
+    "score": 0.11031234239148575,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_25",
+    "asset_id": "j_26",
+    "asset_type": "job",
+    "score": 0.10465075720138553,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_25",
+    "asset_id": "j_11",
+    "asset_type": "job",
+    "score": 0.09198838563903923,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_25",
+    "asset_id": "j_10",
+    "asset_type": "job",
+    "score": 0.08623749511834557,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_25",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.06872562823855159,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_25",
+    "asset_id": "j_33",
+    "asset_type": "job",
+    "score": 0.0682431391768949,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_26",
+    "asset_id": "j_26",
+    "asset_type": "job",
+    "score": 0.31822034101557106,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_26",
+    "asset_id": "j_03",
+    "asset_type": "job",
+    "score": 0.16821621079494398,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_26",
+    "asset_id": "j_38",
+    "asset_type": "job",
+    "score": 0.1571089156532742,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_26",
+    "asset_id": "j_10",
+    "asset_type": "job",
+    "score": 0.06979604690045743,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_26",
+    "asset_id": "j_46",
+    "asset_type": "job",
+    "score": 0.05923967371349667,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_26",
+    "asset_id": "j_33",
+    "asset_type": "job",
+    "score": 0.057062474192737536,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_26",
+    "asset_id": "j_20",
+    "asset_type": "job",
+    "score": 0.05654664199830021,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_26",
+    "asset_id": "j_25",
+    "asset_type": "job",
+    "score": 0.05360871045508287,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_26",
+    "asset_id": "j_11",
+    "asset_type": "job",
+    "score": 0.052568388819699816,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_26",
+    "asset_id": "j_08",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_27",
+    "asset_id": "j_27",
+    "asset_type": "job",
+    "score": 0.31847290000576534,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_27",
+    "asset_id": "j_13",
+    "asset_type": "job",
+    "score": 0.2190522889024613,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_27",
+    "asset_id": "j_07",
+    "asset_type": "job",
+    "score": 0.21043413315231266,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_27",
+    "asset_id": "j_47",
+    "asset_type": "job",
+    "score": 0.0640523594618482,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_27",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.05949971054169954,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_27",
+    "asset_id": "j_04",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_27",
+    "asset_id": "j_03",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_27",
+    "asset_id": "j_05",
+    "asset_type": "job",
+    "score": 0.23,
+    "reason": "text-based similarity; feedback adjusted (positive)"
+  },
+  {
+    "user_id": "u_27",
+    "asset_id": "j_08",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_27",
+    "asset_id": "j_09",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_28",
+    "asset_id": "j_28",
+    "asset_type": "job",
+    "score": 0.21350918731310098,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_28",
+    "asset_id": "j_40",
+    "asset_type": "job",
+    "score": 0.1762913366153105,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_28",
+    "asset_id": "j_15",
+    "asset_type": "job",
+    "score": 0.16535963487472582,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_28",
+    "asset_id": "j_08",
+    "asset_type": "job",
+    "score": 0.07376110570830954,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_28",
+    "asset_id": "j_12",
+    "asset_type": "job",
+    "score": 0.06331946771694294,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_28",
+    "asset_id": "j_31",
+    "asset_type": "job",
+    "score": 0.05135424808739585,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_28",
+    "asset_id": "j_48",
+    "asset_type": "job",
+    "score": 0.05090013374823705,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_28",
+    "asset_id": "j_09",
+    "asset_type": "job",
+    "score": 0.04678380931105028,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_28",
+    "asset_id": "j_01",
+    "asset_type": "job",
+    "score": 0.04234776395761126,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_28",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.04221166951003557,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_29",
+    "asset_id": "j_29",
+    "asset_type": "job",
+    "score": 0.23371917583676044,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_29",
+    "asset_id": "j_17",
+    "asset_type": "job",
+    "score": 0.18747746634571422,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_29",
+    "asset_id": "j_41",
+    "asset_type": "job",
+    "score": 0.1559655899141234,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_29",
+    "asset_id": "j_50",
+    "asset_type": "job",
+    "score": 0.15345940545177422,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_29",
+    "asset_id": "j_08",
+    "asset_type": "job",
+    "score": 0.14837348488726218,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_29",
+    "asset_id": "j_10",
+    "asset_type": "job",
+    "score": 0.14731505162728345,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_29",
+    "asset_id": "j_07",
+    "asset_type": "job",
+    "score": 0.08673566117032197,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_29",
+    "asset_id": "j_01",
+    "asset_type": "job",
+    "score": 0.07629776103658473,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_29",
+    "asset_id": "j_34",
+    "asset_type": "job",
+    "score": 0.06662567521485065,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_29",
+    "asset_id": "j_22",
+    "asset_type": "job",
+    "score": 0.05953227401575141,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_30",
+    "asset_id": "j_30",
+    "asset_type": "job",
+    "score": 0.2576550336120952,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_30",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.1613940891228039,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_30",
+    "asset_id": "j_16",
+    "asset_type": "job",
+    "score": 0.15979337749692502,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_30",
+    "asset_id": "j_32",
+    "asset_type": "job",
+    "score": 0.152695838975742,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_30",
+    "asset_id": "j_02",
+    "asset_type": "job",
+    "score": 0.1509395858032454,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_30",
+    "asset_id": "j_36",
+    "asset_type": "job",
+    "score": 0.1500640491178865,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_30",
+    "asset_id": "j_21",
+    "asset_type": "job",
+    "score": 0.14806105056353444,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_30",
+    "asset_id": "j_14",
+    "asset_type": "job",
+    "score": 0.14741468624175366,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_30",
+    "asset_id": "j_06",
+    "asset_type": "job",
+    "score": 0.1447129211056048,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_30",
+    "asset_id": "j_13",
+    "asset_type": "job",
+    "score": 0.10607275597577176,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_31",
+    "asset_id": "j_31",
+    "asset_type": "job",
+    "score": 0.291430428074564,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_31",
+    "asset_id": "j_35",
+    "asset_type": "job",
+    "score": 0.16863511948825258,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_31",
+    "asset_id": "j_49",
+    "asset_type": "job",
+    "score": 0.1630934614995548,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_31",
+    "asset_id": "j_11",
+    "asset_type": "job",
+    "score": 0.07938568663201773,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_31",
+    "asset_id": "j_48",
+    "asset_type": "job",
+    "score": 0.07663974914887059,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_31",
+    "asset_id": "j_09",
+    "asset_type": "job",
+    "score": 0.06745395438418633,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_31",
+    "asset_id": "j_46",
+    "asset_type": "job",
+    "score": 0.06199212346910461,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_31",
+    "asset_id": "j_50",
+    "asset_type": "job",
+    "score": 0.0594967178558255,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_31",
+    "asset_id": "j_26",
+    "asset_type": "job",
+    "score": 0.058899393756495916,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_31",
+    "asset_id": "j_40",
+    "asset_type": "job",
+    "score": 0.055825388888792696,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_32",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.16312416176340047,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_32",
+    "asset_id": "j_16",
+    "asset_type": "job",
+    "score": 0.16143523775529306,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_32",
+    "asset_id": "j_32",
+    "asset_type": "job",
+    "score": 0.15394656645866792,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_32",
+    "asset_id": "j_30",
+    "asset_type": "job",
+    "score": 0.15299584632083818,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_32",
+    "asset_id": "j_36",
+    "asset_type": "job",
+    "score": 0.1511697433236543,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_32",
+    "asset_id": "j_21",
+    "asset_type": "job",
+    "score": 0.1490563630670498,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_32",
+    "asset_id": "j_14",
+    "asset_type": "job",
+    "score": 0.14837437875245457,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_32",
+    "asset_id": "j_06",
+    "asset_type": "job",
+    "score": 0.14552372412551384,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_32",
+    "asset_id": "j_26",
+    "asset_type": "job",
+    "score": 0.11425111073009973,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_32",
+    "asset_id": "j_10",
+    "asset_type": "job",
+    "score": 0.09346983749431059,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_33",
+    "asset_id": "j_33",
+    "asset_type": "job",
+    "score": 0.3570111453942787,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_33",
+    "asset_id": "j_39",
+    "asset_type": "job",
+    "score": 0.16803873046495058,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_33",
+    "asset_id": "j_34",
+    "asset_type": "job",
+    "score": 0.1676096167923442,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_33",
+    "asset_id": "j_26",
+    "asset_type": "job",
+    "score": 0.11867470606419366,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_33",
+    "asset_id": "j_10",
+    "asset_type": "job",
+    "score": 0.09680231435500111,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_33",
+    "asset_id": "j_46",
+    "asset_type": "job",
+    "score": 0.0790822085905275,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_33",
+    "asset_id": "j_20",
+    "asset_type": "job",
+    "score": 0.07456164021205186,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_33",
+    "asset_id": "j_25",
+    "asset_type": "job",
+    "score": 0.06962997885899364,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_33",
+    "asset_id": "j_11",
+    "asset_type": "job",
+    "score": 0.06788367744641868,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_33",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.043949917927650774,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_34",
+    "asset_id": "j_34",
+    "asset_type": "job",
+    "score": 0.3167028697180597,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_34",
+    "asset_id": "j_39",
+    "asset_type": "job",
+    "score": 0.1668125383162056,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_34",
+    "asset_id": "j_33",
+    "asset_type": "job",
+    "score": 0.16497308276505226,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_34",
+    "asset_id": "j_21",
+    "asset_type": "job",
+    "score": 0.07932721453166552,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_34",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.07451780701111038,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_34",
+    "asset_id": "j_42",
+    "asset_type": "job",
+    "score": 0.06881447600967863,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_34",
+    "asset_id": "j_13",
+    "asset_type": "job",
+    "score": 0.06702468591721966,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_34",
+    "asset_id": "j_47",
+    "asset_type": "job",
+    "score": 0.06580446769562463,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_34",
+    "asset_id": "j_05",
+    "asset_type": "job",
+    "score": 0.06115129112211362,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_34",
+    "asset_id": "j_19",
+    "asset_type": "job",
+    "score": 0.04339218576916504,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_35",
+    "asset_id": "j_35",
+    "asset_type": "job",
+    "score": 0.2906115998927228,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_35",
+    "asset_id": "j_31",
+    "asset_type": "job",
+    "score": 0.16657905958113514,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_35",
+    "asset_id": "j_49",
+    "asset_type": "job",
+    "score": 0.36537454471276287,
+    "reason": "text-based similarity; feedback adjusted (positive)"
+  },
+  {
+    "user_id": "u_35",
+    "asset_id": "j_13",
+    "asset_type": "job",
+    "score": 0.10575168079977898,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_35",
+    "asset_id": "j_02",
+    "asset_type": "job",
+    "score": 0.07674095188177185,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_35",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.044564676754914226,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_35",
+    "asset_id": "j_19",
+    "asset_type": "job",
+    "score": 0.04444810578521862,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_35",
+    "asset_id": "j_16",
+    "asset_type": "job",
+    "score": 0.04382205774413285,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_35",
+    "asset_id": "j_08",
+    "asset_type": "job",
+    "score": 0.041671410815575106,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_35",
+    "asset_id": "j_06",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_36",
+    "asset_id": "j_36",
+    "asset_type": "job",
+    "score": 0.34313387230875714,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_36",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.1603901748612842,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_36",
+    "asset_id": "j_16",
+    "asset_type": "job",
+    "score": 0.15884065048990775,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_36",
+    "asset_id": "j_32",
+    "asset_type": "job",
+    "score": 0.15197007571706692,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_36",
+    "asset_id": "j_30",
+    "asset_type": "job",
+    "score": 0.15109782568281205,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_36",
+    "asset_id": "j_21",
+    "asset_type": "job",
+    "score": 0.1474834976946541,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_36",
+    "asset_id": "j_14",
+    "asset_type": "job",
+    "score": 0.1468578026892607,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_36",
+    "asset_id": "j_06",
+    "asset_type": "job",
+    "score": 0.14424243408912368,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_36",
+    "asset_id": "j_04",
+    "asset_type": "job",
+    "score": 0.09770307516629634,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_36",
+    "asset_id": "j_40",
+    "asset_type": "job",
+    "score": 0.05304785510507849,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_37",
+    "asset_id": "j_37",
+    "asset_type": "job",
+    "score": 0.3733499375349275,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_37",
+    "asset_id": "j_22",
+    "asset_type": "job",
+    "score": 0.16412824393504008,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_37",
+    "asset_id": "j_01",
+    "asset_type": "job",
+    "score": 0.15541214058499978,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_37",
+    "asset_id": "j_14",
+    "asset_type": "job",
+    "score": 0.08784429069714161,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_37",
+    "asset_id": "j_05",
+    "asset_type": "job",
+    "score": 0.07824205285120539,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_37",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.044202138400383444,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_37",
+    "asset_id": "j_19",
+    "asset_type": "job",
+    "score": 0.04408846907061097,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_37",
+    "asset_id": "j_16",
+    "asset_type": "job",
+    "score": 0.04347800437754532,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_37",
+    "asset_id": "j_08",
+    "asset_type": "job",
+    "score": 0.24138089052849057,
+    "reason": "text-based similarity; feedback adjusted (positive)"
+  },
+  {
+    "user_id": "u_37",
+    "asset_id": "j_07",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_38",
+    "asset_id": "j_38",
+    "asset_type": "job",
+    "score": 0.3266494658478769,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_38",
+    "asset_id": "j_03",
+    "asset_type": "job",
+    "score": 0.1738187659295205,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_38",
+    "asset_id": "j_26",
+    "asset_type": "job",
+    "score": 0.16291949982594178,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_38",
+    "asset_id": "j_01",
+    "asset_type": "job",
+    "score": 0.08470885194872328,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_38",
+    "asset_id": "j_17",
+    "asset_type": "job",
+    "score": 0.07297763013422003,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_38",
+    "asset_id": "j_22",
+    "asset_type": "job",
+    "score": 0.06272962047925987,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_38",
+    "asset_id": "j_34",
+    "asset_type": "job",
+    "score": 0.06001238118599184,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_38",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.04429301519250098,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_38",
+    "asset_id": "j_19",
+    "asset_type": "job",
+    "score": 0.04417861851422923,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_38",
+    "asset_id": "j_16",
+    "asset_type": "job",
+    "score": 0.04356424757328438,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_39",
+    "asset_id": "j_39",
+    "asset_type": "job",
+    "score": 0.2121733172141692,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_39",
+    "asset_id": "j_34",
+    "asset_type": "job",
+    "score": 0.16716235077465103,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_39",
+    "asset_id": "j_33",
+    "asset_type": "job",
+    "score": 0.1657082392085767,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_39",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.0437840208840011,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_39",
+    "asset_id": "j_19",
+    "asset_type": "job",
+    "score": 0.04367369803181625,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_39",
+    "asset_id": "j_16",
+    "asset_type": "job",
+    "score": 0.043081205701370084,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_39",
+    "asset_id": "j_08",
+    "asset_type": "job",
+    "score": 0.04104583185297002,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_39",
+    "asset_id": "j_04",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_39",
+    "asset_id": "j_07",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_39",
+    "asset_id": "j_09",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_40",
+    "asset_id": "j_40",
+    "asset_type": "job",
+    "score": 0.2147810903389713,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_40",
+    "asset_id": "j_28",
+    "asset_type": "job",
+    "score": 0.15207676509426238,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_40",
+    "asset_id": "j_15",
+    "asset_type": "job",
+    "score": 0.14989094740429368,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_40",
+    "asset_id": "j_34",
+    "asset_type": "job",
+    "score": 0.05884890500174482,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_40",
+    "asset_id": "j_38",
+    "asset_type": "job",
+    "score": 0.05554563573803974,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_40",
+    "asset_id": "j_07",
+    "asset_type": "job",
+    "score": 0.055049866159557426,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_40",
+    "asset_id": "j_06",
+    "asset_type": "job",
+    "score": 0.05363811008589414,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_40",
+    "asset_id": "j_01",
+    "asset_type": "job",
+    "score": 0.05146471754294906,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_40",
+    "asset_id": "j_12",
+    "asset_type": "job",
+    "score": 0.04874328686494708,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_40",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.04373892444326987,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_41",
+    "asset_id": "j_41",
+    "asset_type": "job",
+    "score": 0.19828810346068804,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_41",
+    "asset_id": "j_08",
+    "asset_type": "job",
+    "score": 0.1555686584392472,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_41",
+    "asset_id": "j_50",
+    "asset_type": "job",
+    "score": 0.15089380908817518,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_41",
+    "asset_id": "j_17",
+    "asset_type": "job",
+    "score": 0.15052251253217494,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_41",
+    "asset_id": "j_29",
+    "asset_type": "job",
+    "score": 0.14991987786532318,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_41",
+    "asset_id": "j_10",
+    "asset_type": "job",
+    "score": 0.14542142164668526,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_41",
+    "asset_id": "j_16",
+    "asset_type": "job",
+    "score": 0.13283908907115377,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_41",
+    "asset_id": "j_01",
+    "asset_type": "job",
+    "score": 0.04161431692630932,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_41",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.04148630637707294,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_41",
+    "asset_id": "j_19",
+    "asset_type": "job",
+    "score": 0.04139437368985113,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_42",
+    "asset_id": "j_42",
+    "asset_type": "job",
+    "score": 0.33319083426796225,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_42",
+    "asset_id": "j_19",
+    "asset_type": "job",
+    "score": 0.1761936070778476,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_42",
+    "asset_id": "j_02",
+    "asset_type": "job",
+    "score": 0.15396015936106688,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_42",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.10655261213079242,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_42",
+    "asset_id": "j_47",
+    "asset_type": "job",
+    "score": 0.06628664669891168,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_42",
+    "asset_id": "j_21",
+    "asset_type": "job",
+    "score": 0.0601478519261571,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_42",
+    "asset_id": "j_16",
+    "asset_type": "job",
+    "score": 0.2429844294202239,
+    "reason": "text-based similarity; feedback adjusted (positive)"
+  },
+  {
+    "user_id": "u_42",
+    "asset_id": "j_08",
+    "asset_type": "job",
+    "score": 0.040964113504271905,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_42",
+    "asset_id": "j_07",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_42",
+    "asset_id": "j_09",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_43",
+    "asset_id": "j_43",
+    "asset_type": "job",
+    "score": 0.17084713875135035,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_43",
+    "asset_id": "j_45",
+    "asset_type": "job",
+    "score": 0.16610900522884237,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_43",
+    "asset_id": "j_02",
+    "asset_type": "job",
+    "score": 0.10908719833085936,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_43",
+    "asset_id": "j_13",
+    "asset_type": "job",
+    "score": 0.07974699639883734,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_43",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.04232195144478831,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_43",
+    "asset_id": "j_19",
+    "asset_type": "job",
+    "score": 0.04222333052428099,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_43",
+    "asset_id": "j_16",
+    "asset_type": "job",
+    "score": 0.04169368378414576,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_43",
+    "asset_id": "j_08",
+    "asset_type": "job",
+    "score": 0.039874201795324395,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_43",
+    "asset_id": "j_07",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_43",
+    "asset_id": "j_06",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_44",
+    "asset_id": "j_44",
+    "asset_type": "job",
+    "score": 0.3799847672990239,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_44",
+    "asset_id": "j_48",
+    "asset_type": "job",
+    "score": 0.1812715518293715,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_44",
+    "asset_id": "j_25",
+    "asset_type": "job",
+    "score": 0.15508154110082328,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_44",
+    "asset_id": "j_04",
+    "asset_type": "job",
+    "score": 0.1504537762411644,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_44",
+    "asset_id": "j_07",
+    "asset_type": "job",
+    "score": 0.06079461523974057,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_44",
+    "asset_id": "j_31",
+    "asset_type": "job",
+    "score": 0.05313517747062134,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_44",
+    "asset_id": "j_09",
+    "asset_type": "job",
+    "score": 0.048183567290922484,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_44",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.04323011422228455,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_44",
+    "asset_id": "j_19",
+    "asset_type": "job",
+    "score": 0.04312422466015918,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_44",
+    "asset_id": "j_16",
+    "asset_type": "job",
+    "score": 0.042555541452726685,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_45",
+    "asset_id": "j_45",
+    "asset_type": "job",
+    "score": 0.237442893227026,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_45",
+    "asset_id": "j_43",
+    "asset_type": "job",
+    "score": 0.1682212996820718,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_45",
+    "asset_id": "j_26",
+    "asset_type": "job",
+    "score": 0.12772150456383657,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_45",
+    "asset_id": "j_10",
+    "asset_type": "job",
+    "score": 0.1036176408906425,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_45",
+    "asset_id": "j_46",
+    "asset_type": "job",
+    "score": 0.08408968897297725,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_45",
+    "asset_id": "j_33",
+    "asset_type": "job",
+    "score": 0.08006214591405389,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_45",
+    "asset_id": "j_20",
+    "asset_type": "job",
+    "score": 0.07910792175845108,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_45",
+    "asset_id": "j_25",
+    "asset_type": "job",
+    "score": 0.07367312091376269,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_45",
+    "asset_id": "j_11",
+    "asset_type": "job",
+    "score": 0.07174865779419802,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_45",
+    "asset_id": "j_07",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_46",
+    "asset_id": "j_46",
+    "asset_type": "job",
+    "score": 0.3681304121841344,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_46",
+    "asset_id": "j_20",
+    "asset_type": "job",
+    "score": 0.20203022374958735,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_46",
+    "asset_id": "j_11",
+    "asset_type": "job",
+    "score": 0.19123584656977524,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_46",
+    "asset_id": "j_09",
+    "asset_type": "job",
+    "score": 0.15406722149237245,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_46",
+    "asset_id": "j_26",
+    "asset_type": "job",
+    "score": 0.11458397678335398,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_46",
+    "asset_id": "j_10",
+    "asset_type": "job",
+    "score": 0.09372059922462297,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_46",
+    "asset_id": "j_33",
+    "asset_type": "job",
+    "score": 0.07333186852391385,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_46",
+    "asset_id": "j_25",
+    "asset_type": "job",
+    "score": 0.06780177415313102,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_46",
+    "asset_id": "j_01",
+    "asset_type": "job",
+    "score": 0.04345467685018887,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_46",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.04330638224239414,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_47",
+    "asset_id": "j_47",
+    "asset_type": "job",
+    "score": 0.3748719548560951,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_47",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.12320748306317977,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_47",
+    "asset_id": "j_34",
+    "asset_type": "job",
+    "score": 0.06776865461170692,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_47",
+    "asset_id": "j_01",
+    "asset_type": "job",
+    "score": 0.04194098070138345,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_47",
+    "asset_id": "j_19",
+    "asset_type": "job",
+    "score": 0.041714851350978195,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_47",
+    "asset_id": "j_16",
+    "asset_type": "job",
+    "score": 0.041207237422279386,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_47",
+    "asset_id": "j_08",
+    "asset_type": "job",
+    "score": 0.03946344419076336,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_47",
+    "asset_id": "j_05",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_47",
+    "asset_id": "j_07",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_47",
+    "asset_id": "j_09",
+    "asset_type": "job",
+    "score": 0.03,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_48",
+    "asset_id": "j_48",
+    "asset_type": "job",
+    "score": 0.3179313411606953,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_48",
+    "asset_id": "j_44",
+    "asset_type": "job",
+    "score": 0.15615325742157726,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_48",
+    "asset_id": "j_25",
+    "asset_type": "job",
+    "score": 0.1537723598428544,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_48",
+    "asset_id": "j_04",
+    "asset_type": "job",
+    "score": 0.14938615043611597,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_48",
+    "asset_id": "j_31",
+    "asset_type": "job",
+    "score": 0.07385518111898284,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_48",
+    "asset_id": "j_24",
+    "asset_type": "job",
+    "score": 0.2644809095131677,
+    "reason": "text-based similarity; feedback adjusted (positive)"
+  },
+  {
+    "user_id": "u_48",
+    "asset_id": "j_09",
+    "asset_type": "job",
+    "score": 0.06446887917524155,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_48",
+    "asset_id": "j_01",
+    "asset_type": "job",
+    "score": 0.04267929038192436,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_48",
+    "asset_id": "j_18",
+    "asset_type": "job",
+    "score": 0.04253954192008921,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_48",
+    "asset_id": "j_19",
+    "asset_type": "job",
+    "score": 0.042439179475679295,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_49",
+    "asset_id": "j_49",
+    "asset_type": "job",
+    "score": 0.3426640626165868,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_49",
+    "asset_id": "j_31",
+    "asset_type": "job",
+    "score": 0.18614413159099447,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_49",
+    "asset_id": "j_35",
+    "asset_type": "job",
+    "score": 0.1673686859807752,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_49",
+    "asset_id": "j_39",
+    "asset_type": "job",
+    "score": 0.10791064468833372,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_49",
+    "asset_id": "j_42",
+    "asset_type": "job",
+    "score": 0.0972916449140809,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_49",
+    "asset_id": "j_21",
+    "asset_type": "job",
+    "score": 0.06357960219400033,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_49",
+    "asset_id": "j_13",
+    "asset_type": "job",
+    "score": 0.06209436625108192,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_49",
+    "asset_id": "j_05",
+    "asset_type": "job",
+    "score": 0.0570030905515989,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_49",
+    "asset_id": "j_03",
+    "asset_type": "job",
+    "score": 0.05471959330804472,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_49",
+    "asset_id": "j_48",
+    "asset_type": "job",
+    "score": 0.052555464603858806,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_50",
+    "asset_id": "j_50",
+    "asset_type": "job",
+    "score": 0.2627102415240482,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_50",
+    "asset_id": "j_10",
+    "asset_type": "job",
+    "score": 0.190341401780819,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_50",
+    "asset_id": "j_41",
+    "asset_type": "job",
+    "score": 0.156788558747065,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_50",
+    "asset_id": "j_17",
+    "asset_type": "job",
+    "score": 0.153772839792446,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_50",
+    "asset_id": "j_29",
+    "asset_type": "job",
+    "score": 0.15307476067732884,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_50",
+    "asset_id": "j_08",
+    "asset_type": "job",
+    "score": 0.14895582503299928,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_50",
+    "asset_id": "j_11",
+    "asset_type": "job",
+    "score": 0.14492473357292218,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_50",
+    "asset_id": "j_26",
+    "asset_type": "job",
+    "score": 0.08638554418366998,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_50",
+    "asset_id": "j_46",
+    "asset_type": "job",
+    "score": 0.061209881193288865,
+    "reason": "text-based similarity"
+  },
+  {
+    "user_id": "u_50",
+    "asset_id": "j_33",
+    "asset_type": "job",
+    "score": 0.05888597911959324,
+    "reason": "text-based similarity"
+  }
+]
