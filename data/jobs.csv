@@ -1,0 +1,51 @@
+job_id,title,description,city,country,employment_type,experience_level,company_name,creator_user_id,created_at
+j_01,Senior Mechanical Engineer,"Lead design and development of advanced robotic systems for automation. Requires expertise in thermodynamics, materials science, and CAD software. Competitive salary + equity.",London,United Kingdom,full_time,senior,RoboTech Innovations,u_01,2025-09-15T10:45:00
+j_02,Research Scientist - Biology,"Join our cutting-edge genetics lab working on CRISPR and gene editing technologies. PhD required, experience with molecular biology essential.",Houston,United States,full_time,senior,Genomic Solutions Inc.,u_02,2025-08-20T14:30:00
+j_03,Marketing Coordinator (Part-time),Support event planning and social media for high-end gala and networking events in Paris. Creative mindset and fluency in French/English needed.,Paris,France,part_time,junior,Luxe Events Paris,u_03,2025-10-05T16:20:00
+j_04,Medical Resident - Surgery,Join our prestigious teaching hospital for advanced training in robotic and minimally invasive surgery. Excellent mentorship and research opportunities.,Mumbai,India,full_time,junior,Apollo Global Hospitals,u_04,2025-07-10T09:15:00
+j_05,Physics Research Intern,3-month paid internship assisting with quantum mechanics experiments and data analysis. Great for current students or recent graduates.,São Paulo,Brazil,internship,junior,Quantum Brazil Lab,u_05,2025-11-01T11:55:00
+j_06,Mechanical Design Engineer,Work on next-gen sustainable energy systems. Focus on fluid mechanics and renewable tech. Flexible hybrid work.,Boston,United States,full_time,mid,GreenFlow Energy,u_06,2025-09-25T13:40:00
+j_07,Hardware Engineer - Robotics,Design and prototype mechanical components for autonomous systems at leading innovation hub. MIT alumni preferred.,Los Angeles,United States,full_time,mid,Autonomy Labs,u_07,2025-10-18T08:50:00
+j_08,Event Planner Assistant,"Help organize formal university balls and social events. Part-time, perfect for students with great organizational skills.",Chicago,United States,part_time,junior,Cambridge Events Collective,u_08,2025-09-30T12:10:00
+j_09,Business Development Manager,"Drive partnerships and growth for a fast-growing fintech startup. MBA preferred, strong networking skills required.",Sydney,Australia,full_time,mid,PaySwift Australia,u_09,2025-08-12T15:25:00
+j_10,Junior Associate - Corporate Law,Join top-tier law firm specializing in mergers and contracts. Excellent training program and clear partner track.,Chicago,United States,full_time,junior,Harrington & Partners,u_10,2025-10-08T17:35:00
+j_11,Human Rights Legal Counsel,Work with international NGO on policy and advocacy. Experience in international law strongly preferred.,Sydney,Australia,full_time,senior,Justice International,u_11,2025-09-05T10:20:00
+j_12,Economist - Policy Analyst,Analyze macroeconomic trends and advise on fiscal policy for government think tank., Toronto,Canada,full_time,mid,Canadian Economic Institute,u_12,2025-08-28T11:45:00
+j_13,Bioinformatics Specialist,Develop algorithms for genomic data analysis. Strong programming and biology background required.,Los Angeles,United States,full_time,mid,BioData Analytics,u_13,2025-11-10T14:05:00
+j_14,Theoretical Physicist,Research position in particle physics and relativity at world-class institute. PhD required.,Boston,United States,full_time,senior,Advanced Physics Institute,u_14,2025-09-18T16:50:00
+j_15,Commercial Lawyer,Handle intellectual property and contracts for tech companies. Great work-life balance.,Toronto,Canada,full_time,mid,Innovate Legal,u_15,2025-10-20T09:30:00
+j_16,Clinical Psychologist,Provide therapy and conduct research in cognitive psychology at university-affiliated clinic.,Boston,United States,full_time,mid,MindHealth Center,u_16,2025-08-15T13:20:00
+j_17,Robotics Software Engineer,Develop control systems for industrial robots. C++/Python expertise needed.,Chicago,United States,full_time,mid,Industrial Automata,u_17,2025-11-25T15:40:00
+j_18,Mathematics Lecturer,Teach advanced algebra and number theory at prestigious university. PhD required.,Boston,United States,full_time,senior,Princeton Academic Press,u_18,2025-09-10T10:55:00
+j_19,Mental Health Counselor (Part-time),Support university students with counseling services. Flexible hours.,Houston,United States,part_time,mid,Campus Wellness Hub,u_19,2025-10-01T18:15:00
+j_20,Environmental Lawyer,Work on climate policy and litigation for leading green law firm.,Sydney,Australia,full_time,mid,EcoJustice Partners,u_20,2025-11-12T12:30:00
+j_21,Economic Data Analyst,Use game theory and statistics to model markets for consulting firm.,Boston,United States,full_time,mid,StratEcon Consulting,u_21,2025-08-22T14:45:00
+j_22,Machine Learning Engineer,Build and deploy AI models for computer vision and NLP applications.,London,United Kingdom,full_time,mid,DeepMind Labs,u_22,2025-12-01T11:20:00
+j_23,Startup Operations Manager,Manage day-to-day operations and scaling for early-stage venture.,São Paulo,Brazil,full_time,mid,Nova Ventures,u_23,2025-10-25T17:10:00
+j_24,AI Research Intern,6-month paid internship in machine learning and ethics. Perfect for graduate students.,New York,United States,internship,junior,Ethical AI Institute,u_24,2025-11-15T13:55:00
+j_25,Legal Research Assistant,Support public and private law research for academic institute. Part-time remote OK.,Mumbai,India,part_time,junior,Indian Law Review,u_25,2025-09-08T10:35:00
+j_26,Junior Lawyer - International Law,Assist with cross-border cases and comparative law research.,Paris,France,full_time,junior,Global Legal Associates,u_26,2025-10-10T15:50:00
+j_27,Quantitative Analyst,Use topology and probability in financial modeling for hedge fund.,Los Angeles,United States,full_time,senior,QuantCapital,u_27,2025-09-20T12:40:00
+j_28,Strategy Consultant,Advise Fortune 500 clients on organizational transformation and growth.,Toronto,Canada,full_time,mid,McKinsey Canada,u_28,2025-08-30T09:25:00
+j_29,Cybersecurity Analyst,Protect systems and respond to threats at leading tech security firm.,Chicago,United States,full_time,mid,SecureNet Solutions,u_29,2025-12-05T16:15:00
+j_30,Molecular Biologist,Lead research on evolutionary pathways and cell signaling.,Boston,United States,full_time,senior,EvoBio Research,u_30,2025-10-18T14:30:00
+j_31,International Business Development,Expand operations across Asia-Pacific for multinational corporation.,Tokyo,Japan,full_time,mid,AsiaGlobal Corp,u_31,2025-09-25T10:10:00
+j_32,Contracts Lawyer,Draft and negotiate complex commercial agreements.,Boston,United States,full_time,mid,ContractPro Legal,u_32,2025-11-05T13:45:00
+j_33,Policy Advisor - Administrative Law,Advise government on regulatory frameworks and constitutional matters.,Miami,United States,full_time,senior,Federal Policy Group,u_33,2025-10-12T11:20:00
+j_34,Applied Mathematician,Model complex systems using differential equations for engineering firm.,Miami,United States,full_time,mid,MathWorks Engineering,u_34,2025-09-15T17:50:00
+j_35,Immunology Research Lead,Direct vaccine development and bioinformatics projects.,Tokyo,Japan,full_time,senior,Tokyo BioPharma,u_35,2025-11-20T09:40:00
+j_36,Medical Consultant,Advise hospitals on internal medicine and surgical best practices.,Boston,United States,full_time,senior,MedAdvise Partners,u_36,2025-10-08T12:55:00
+j_37,Astrophysicist,Research nuclear physics and cosmology at national observatory.,London,United Kingdom,full_time,senior,Royal Observatory,u_37,2025-09-28T15:15:00
+j_38,Full-Stack Developer (Cryptography),Build secure applications with focus on encryption and software engineering.,Paris,France,full_time,mid,CryptoSecure,u_38,2025-12-10T14:25:00
+j_39,Behavioral Economist,Design experiments and analyze consumer data for marketing firm.,Miami,United States,full_time,mid,Insight Economics,u_39,2025-11-01T10:30:00
+j_40,Mechatronics Engineer,Develop advanced drones and autonomous vehicles.,Toronto,Canada,full_time,mid,AeroMech Innovations,u_40,2025-12-15T16:45:00
+j_41,Child Psychologist,Work with adolescents on developmental and resilience programs.,Chicago,United States,full_time,mid,YouthMind Clinic,u_41,2025-11-18T12:10:00
+j_42,Data Scientist - Graph Theory,Apply combinatorics and network analysis to big data problems.,Houston,United States,full_time,mid,Network Analytics Inc.,u_42,2025-12-05T15:35:00
+j_43,Neurobiologist,Lead research on synaptic plasticity and brain mapping.,Berlin,Germany,full_time,senior,Max Planck Neuroscience,u_43,2025-11-10T11:50:00
+j_44,Innovation Manager,Drive product innovation and supply chain optimization for consumer goods.,Mumbai,India,full_time,senior,IndiaInnovate,u_44,2025-12-01T09:20:00
+j_45,EU Competition Lawyer,Handle antitrust cases and regulatory compliance across Europe.,Berlin,Germany,full_time,mid,EU Law Partners,u_45,2025-10-25T13:05:00
+j_46,Maritime Law Specialist,Advise on international shipping and aviation legal matters.,Sydney,Australia,full_time,senior,Global Maritime Legal,u_46,2025-11-15T18:40:00
+j_47,Applied Mathematics Researcher,Model fluid dynamics for aerospace applications.,Seattle,United States,full_time,mid,Boeing Research,u_47,2025-12-08T14:55:00
+j_48,Ethics & Compliance Officer,Ensure global business practices meet highest ethical standards.,Mumbai,India,full_time,senior,Oxford Global Ethics,u_48,2025-11-20T17:25:00
+j_49,Digital Marketing Director,Lead AI-driven campaigns and analytics for e-commerce brand.,Tokyo,Japan,full_time,senior,Tokyo Digital Hub,u_49,2025-12-12T10:15:00
+j_50,Human Rights Advocate,Represent cases at international courts and lead advocacy campaigns.,Chicago,United States,full_time,senior,Human Rights Watch,u_50,2025-10-15T13:40:00

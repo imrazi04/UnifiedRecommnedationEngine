@@ -1,0 +1,51 @@
+user_id,app,age,city,country,university,degree_program,exams_subjects,gender,created_at,updated_at
+u_01,openyard,32,London,United Kingdom,University of Cambridge,Mechanical Engineering,"Math, Physics, Computer Science",male,2024-01-10T08:30:00,2025-03-03T14:22:00
+u_02,openyard,27,Houston,United States,Harvard University,Biology,"Math, Physics, Chemistry",female,2023-02-15T12:45:00,2023-04-13T09:15:00
+u_03,unidate,35,Paris,France,Princeton University,Biology,"Biochemistry, Genetics, Physiology",female,2022-03-20T16:20:00,2023-01-12T11:30:00
+u_04,unidate,34,Mumbai,India,Princeton University,Medicine,"Anatomy, Pathology, Pharmacology",male,2024-11-05T10:10:00,2025-01-06T18:45:00
+u_05,openyard,21,São Paulo,Brazil,University of Toronto,Physics,"Advanced Physics, Calculus, Mechanics",male,2023-07-01T09:00:00,2023-12-24T20:55:00
+u_06,openyard,29,Boston,United States,University of Oxford,Mechanical Engineering,"Thermodynamics, Fluid Mechanics, Materials",female,2024-08-12T14:20:00,2025-06-17T13:40:00
+u_07,openyard,24,Los Angeles,United States,MIT,Mechanical Engineering,"Statics, Dynamics, Design",male,2024-03-10T11:15:00,2024-04-12T17:30:00
+u_08,unidate,21,Chicago,United States,University of Cambridge,Physics,"Quantum Mechanics, Electromagnetism, Thermodynamics",non-binary,2022-02-18T13:50:00,2022-04-28T10:10:00
+u_09,openyard,32,Sydney,Australia,Harvard University,Business Administration,"Finance, Marketing, Strategy",male,2023-10-08T15:25:00,2024-04-17T12:00:00
+u_10,openyard,21,Chicago,United States,University of Toronto,Law,"Constitutional Law, Criminal Law, Contracts",female,2022-09-05T08:40:00,2023-07-16T16:20:00
+u_11,openyard,35,Sydney,Australia,ETH Zurich,Law,"International Law, Corporate Law, Human Rights",male,2025-10-01T09:55:00,2025-12-02T14:35:00
+u_12,unidate,19,Toronto,Canada,ETH Zurich,Economics,"Microeconomics, Macroeconomics, Econometrics",male,2023-05-15T11:10:00,2023-08-06T19:45:00
+u_13,openyard,28,Los Angeles,United States,ETH Zurich,Biology,"Molecular Biology, Genetics, Ecology",female,2025-11-01T13:20:00,2025-12-24T10:05:00
+u_14,openyard,24,Boston,United States,ETH Zurich,Physics,"Particle Physics, Optics, Relativity",male,2024-11-22T12:30:00,2025-01-19T15:50:00
+u_15,openyard,32,Toronto,Canada,MIT,Law,"Intellectual Property, Commercial Law, Torts",female,2025-12-05T10:40:00,2025-12-22T18:15:00
+u_16,unidate,31,Boston,United States,MIT,Psychology,"Cognitive Psychology, Behavioral Neuroscience",male,2023-02-18T14:00:00,2023-12-17T09:25:00
+u_17,openyard,18,Chicago,United States,Harvard University,Mechanical Engineering,"Robotics, Control Systems, Manufacturing",male,2024-02-05T16:15:00,2024-10-10T11:40:00
+u_18,openyard,33,Boston,United States,Princeton University,Mathematics,"Algebra, Calculus, Number Theory",male,2025-02-20T08:50:00,2025-04-11T13:10:00
+u_19,unidate,34,Houston,United States,Harvard University,Psychology,"Clinical Psychology, Social Psychology",female,2023-07-18T12:25:00,2023-10-05T17:55:00
+u_20,openyard,23,Sydney,Australia,Princeton University,Law,"Environmental Law, Family Law, Jurisprudence",female,2023-11-10T10:35:00,2024-04-19T14:20:00
+u_21,openyard,32,Boston,United States,University of Cambridge,Economics,"Development Economics, Game Theory, Statistics",male,2025-02-05T15:45:00,2025-10-22T09:30:00
+u_22,openyard,22,London,United Kingdom,ETH Zurich,Computer Science,"Algorithms, Data Structures, AI",female,2025-11-10T11:00:00,2025-12-23T16:15:00
+u_23,openyard,22,São Paulo,Brazil,ETH Zurich,Business Administration,"Operations, Entrepreneurship, Accounting",male,2023-09-22T13:40:00,2023-11-16T20:00:00
+u_24,openyard,22,New York,United States,University of Toronto,Computer Science,"Machine Learning, Databases, Networks",female,2025-12-15T09:20:00,2025-12-18T12:50:00
+u_25,openyard,18,Mumbai,India,University of Cambridge,Law,"Public Law, Private Law, Legal Theory",male,2025-09-25T14:10:00,2025-09-02T18:30:00
+u_26,unidate,21,Paris,France,UC Berkeley,Law,"Comparative Law, Civil Procedure",male,2025-04-01T10:55:00,2025-10-09T15:20:00
+u_27,unidate,27,Los Angeles,United States,UC Berkeley,Mathematics,"Geometry, Topology, Probability",female,2024-04-20T12:15:00,2024-07-21T19:45:00
+u_28,openyard,29,Toronto,Canada,University of Toronto,Business Administration,"Strategic Management, Organizational Behavior",male,2025-07-25T08:30:00,2025-10-26T13:55:00
+u_29,openyard,18,Chicago,United States,MIT,Computer Science,"Operating Systems, Compilers, Security",female,2025-11-01T16:40:00,2025-12-30T11:10:00
+u_30,unidate,34,Boston,United States,Princeton University,Biology,"Evolutionary Biology, Cell Biology",male,2022-08-20T14:25:00,2022-07-25T09:00:00
+u_31,unidate,25,Tokyo,Japan,University of Toronto,Business Administration,"International Business, Finance",female,2024-12-28T10:50:00,2025-01-23T17:15:00
+u_32,unidate,22,Boston,United States,University of Cambridge,Law,"Contract Law, Tort Law",male,2024-08-30T13:35:00,2024-10-30T20:40:00
+u_33,openyard,19,Miami,United States,Princeton University,Law,"Administrative Law, Constitutional Law",female,2022-12-25T11:45:00,2023-10-06T14:20:00
+u_34,openyard,27,Miami,United States,Stanford University,Mathematics,"Analysis, Differential Equations, Statistics",male,2024-06-28T15:10:00,2025-05-06T12:30:00
+u_35,openyard,32,Tokyo,Japan,Princeton University,Biology,"Immunology, Microbiology, Bioinformatics",female,2025-08-30T09:55:00,2025-12-19T16:45:00
+u_36,openyard,27,Boston,United States,University of Toronto,Medicine,"Internal Medicine, Surgery, Pediatrics",male,2024-04-10T12:00:00,2024-06-24T18:20:00
+u_37,unidate,34,London,United Kingdom,Princeton University,Physics,"Nuclear Physics, Astrophysics",female,2022-08-30T10:15:00,2023-03-22T13:40:00
+u_38,unidate,35,Paris,France,Harvard University,Computer Science,"Software Engineering, Cryptography",male,2025-09-28T14:30:00,2025-11-01T19:55:00
+u_39,openyard,24,Miami,United States,Stanford University,Economics,"Behavioral Economics, Econometrics",female,2025-05-05T11:20:00,2025-10-15T15:10:00
+u_40,openyard,32,Toronto,Canada,Harvard University,Mechanical Engineering,"Mechatronics, Aerodynamics, Vibration",male,2024-10-10T13:45:00,2024-09-21T10:25:00
+u_41,unidate,27,Chicago,United States,University of Oxford,Psychology,"Developmental Psychology, Abnormal Psychology",female,2023-10-20T16:00:00,2024-09-03T12:50:00
+u_42,unidate,28,Houston,United States,Stanford University,Mathematics,"Combinatorics, Graph Theory, Logic",male,2025-04-30T09:35:00,2025-04-24T17:15:00
+u_43,openyard,30,Berlin,Germany,Yale University,Biology,"Neurobiology, Plant Biology, Zoology",female,2023-09-18T12:10:00,2024-04-25T14:40:00
+u_44,openyard,31,Mumbai,India,Harvard University,Business Administration,"Supply Chain, Innovation Management",male,2023-10-15T15:25:00,2024-08-23T11:00:00
+u_45,openyard,21,Berlin,Germany,ETH Zurich,Law,"EU Law, Competition Law, Tax Law",female,2022-06-20T10:40:00,2023-04-23T18:30:00
+u_46,unidate,35,Sydney,Australia,University of Cambridge,Law,"Maritime Law, Aviation Law",male,2022-11-15T13:55:00,2023-07-27T20:20:00
+u_47,openyard,27,Seattle,United States,University of Cambridge,Mathematics,"Applied Mathematics, Pure Mathematics",female,2024-05-25T11:30:00,2024-06-03T16:45:00
+u_48,unidate,27,Mumbai,India,University of Oxford,Business Administration,"Leadership, Ethics, Global Business",male,2024-11-05T14:15:00,2025-06-16T12:10:00
+u_49,openyard,29,Tokyo,Japan,Stanford University,Business Administration,"Digital Marketing, Data Analytics",female,2025-07-20T09:50:00,2025-12-14T17:35:00
+u_50,unidate,30,Chicago,United States,ETH Zurich,Law,"Criminal Justice, Human Rights Law",male,2022-06-10T12:20:00,2022-07-16T15:00:00
